@@ -220,9 +220,6 @@
 "Antoine.summer28.unmet": "People can be really kind and thoughtful to creatures they don't fully understand. I think that's just wonderful.$h",
 "Antoine.summer28.friendly": "The jellies are so happy that everyone comes to see them off, you know? They think the lanterns are really cute too.$h",
 
-/*/ Marketpalooza (from Fellowclown.Nikolai mod) /*/
-"Antoine_Marketpalooza.000": "Do you like the snacks? I made them myself! I sort of felt obligated since this happens in my front yard and all.$h",
-
 /*/ Fair /*/
 "Antoine.fall16.unmet": "Have you talked to the Fortune Teller? She has such fun stories!$h",
 "Antoine.fall16.friendly": "I always feel a bit dizzy just watching everyone run around. There's so much energy here, you know? It's kind of intoxicating.$0",
@@ -319,7 +316,7 @@
 
 //green rain
 "Antoine.GreenRain": "There's something effervescent about the air today. It's so refreshing!$l",
-"Antoine.GreenRainFinished": "Sooms the rain has stopped now. Such a shame.$6",
+"Antoine.GreenRainFinished": "So the rain has stopped now. Such a shame.$6",
 
 //dating
 "Antoine.breakUp": "I see. I respect your decision, though it does upset me. I ... need some time. I think...$6",
@@ -343,8 +340,8 @@
 "Antoine.RejectMermaidPendant": "I'm sorry, but I don't think I can make that commitment to you right now.$h",
 
 //divorced
-"Antoine.divorced": "So this is it then. It was a wonderful adventure we shared, but I understand you feel it's now over. I wish you nothing but happiness, @. Truely.$s",
-"Antoine.RejectGift_Divorced": "Normally I am happy to recieve gifts from you, but this feels a bit ... mean spirited.$6",
+"Antoine.divorced": "So this is it then. It was a wonderful adventure we shared, but I understand you feel it's now over. I wish you nothing but happiness, @. Truly.$s",
+"Antoine.RejectGift_Divorced": "Normally I am happy to receive gifts from you, but this feels a bit ... mean spirited.$6",
 "Antoine.RejectMermaidPendant_Divorced": "Again? After how it ended last time? No I ... don't think I can repeat that.$6",
 "Antoine.RejectBouquet_Divorced": "You know, you had all of me before and decided things were not working between us. Let's not repeat out mistakes, hmm?$6",
 "Antoine.WipedMemory": "I ... feel like I've forgotten something very important... Ah well, what do you need, @?$h",
@@ -359,7 +356,7 @@
 "Antoine.Resort_Shore": "I see you're enjoying the shore. It's so peaceful here.$h",
 "Antoine.Resort_Towel": "This towel seems to be, ah, well used.$s",
 "Antoine.Resort_Umbrella": "I adore the sun, but even I need a break from it every once in a while.$h",
-"Antoine.Resort_Wander": "I think I'll wander and see where my feet take me.$h",
+"Antoine.Resort_Wander": "Today, I will wander without purpose and see what finds me.",
 
 //birthday
 "Antoine.AcceptBirthdayGift_Negative": "Is this for me? I don't think I'll like it but I'll try and make some use of it...$s",
@@ -379,7 +376,7 @@
 
 
 "Antoine.cc_Minecart":  "It should be much easier to travel through town now. Though the ride is a bit scary.$h",
-"Antoine.cc_Bus": "Coconuts are so versatile! They're tasty, they go well in desserts and drinks, and their oil is so good for your skin too.$h",
+"Antoine.cc_Bus": "The Calico Desert... a place of dry winds and endless sand. It feels both desolate and serene, as though the planet itself is breathing, slowly, patiently. $1",
 "Antoine.cc_Boulder": "Ah, the water was straining quite a lot. It must be a relief to flow freely once again.$h",
 "Antoine.cc_Greenhouse": "A greenhouse is a wonderful thing. I'm happy you managed to obtain one.$h",
 "Antoine.movieTheater": "We have a movie theater. It's nice to see that space being repurposed.$h",
@@ -387,6 +384,19 @@
 "Antoine.joja_Begin": "Be careful with your choices. You are dynamic, and your actions affect more than just yourself.$s",
 "Antoine.pamHouseUpgrade": "It was so nice of you to give Pam and Penny a better home! Maybe if Pam is surrounded by wood instead of metal she can start to feel better.$h",
 "Antoine.pamHouseUpgradeAnonymous": "Did you hear that someone built Pam and Penny a house? Maybe if Pam is surrounded by wood instead of metal she can start to feel better.$h",
+"Antoine.cc_Bridge": "Nice bridge work! Connects everything together.$7 Simple but it works perfectly. Sometimes the best solutions aren't complicated ones.$10",
+"Antoine.cc_luauShorts": "Did someone just put underwear in the soup?$8 Is that some weird tradition nobody told me about?$5 Judging by the Governor's face, I'm guessing not.$6",
+"Antoine.cc_luauPoisoned": "That soup made everyone sick!$8 Even my iron stomach couldn't handle whatever was in there.$5 I've got some special digestive remedies I could share next time.$3",
+"Antoine.cc_luauBest": "That potluck was actually pretty great!$4 Your contribution really made the difference.$1",
+
+// Ten-Heart Group Events
+"Antoine.dumped_Guys": "Wow, that was... a lot of drama.$5 Dating seems so complicated.$0 People should be more upfront about what they want.$3 Less exciting, but fewer angry mobs.$6",
+
+"Antoine.dumped_Girls": "Yikes. Breaking up with everyone at once.$6 That looked... rough.$5 Don't worry too much though - most people don't find the right match on the first try.$0",
+
+"Antoine.secondChance_Guys": "They forgave you? That's surprising!$4 Second chances don't come easy anywhere.$10 I'm... happy to see everyone making up.$7",
+
+"Antoine.secondChance_Girls": "Talking it out really worked, huh?$7 Sometimes the simplest approach is best.$0 Being honest can fix a lot of problems.$10 As Qi would say, 'the truth has its own luck.'$4",
 
 /*/
 
@@ -588,6 +598,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Spring.11": "Have I told you that I really appreciate that you take so much time out of your day to chat with me? Well now I am!$h",
 "Antoine.Spring.12": "Are you ready for summer yet, @? I never really feel like I am.$0",
 "Antoine.Spring.13": "Have you ever looked at a sweet gem berry and just wanted to bite into it?$7#$b# Don't. It's a mistake.$2",
+"Antoine.Spring.14": "I wonder what secrets are hidden just out of sight. Perhaps today I will find one, or become one. $1",
 "Antoine.Spring.end.1": "Spring is almost over. I'm going to miss watching petals dance in the soft breeze.$0",
 
 
@@ -605,6 +616,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Summer.11": "The mountain goats seem really lively in all this heat. I wonder why they like it so much? Maybe it reminds them of home?$0",
 "Antoine.Summer.12": "The other day I used a spell to chill my drink because I ran out of ice. A silly use of magic, I know, but man the drink was tasty.$h",
 "Antoine.Summer.13": "Hmmm. Jaz asked me to help her name one of the new chickens. What do you think of %name?$0",
+"Antoine.Summer.14": "Doctor Harvey asked about my 'sun protection routine.' I didn't have the heart to tell him that I sort of just soak up the sun like a sponge. He seemed so concerned.$h",
 "Antoine.summer.end.1": "Fall is just around the corner. I've been saying my farewells to the leaves on the trees before the wind takes them on their final journey.$0",
 
 /*/ 0-Hearts ~ Fall /*/
@@ -620,6 +632,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Fall.10": "I'm going to have to break out my scarf soon. It's very cozy, but sometimes wearing it for too long makes me itchy.$0",
 "Antoine.Fall.11": "Ugh, it's getting colder again. I love all the fruit and forage you can find in the fall, but I really wish it'd just stay warm.$0",
 "Antoine.Fall.13": "I spent the week gathering hazelnuts to give to Linus, and he really enjoyed them. We roasted them over his fire together.%revealtasteLinus408$h",
+"Antoine.Fall.14": "Found a particularly resonant piece of amethyst today. When struck precisely, it produces a tone that exists in the overlap between mathematics and music. Quite comforting.$10",
 "Antoine.Fall.end.1": "Winter is coming. Forgive me if I'm a little melancholy, @. I always get this way before the snow falls.$0",
 
 /*/ 0-Hearts ~ Winter /*/
@@ -708,10 +721,11 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Fall.4h.8": "Linus and I had a big yam bake last night!$h#$b#I couldn't really get him to come to my place to use the oven, but cooking everything over an open fire was just as nice.$0",
 "Antoine.Fall.4h.9": "I really love just wandering around and tasting all of the treats the bushes and trees prepare for everyone.$h",
 "Antoine.Fall.4h.10": "Do you know what to cook with cactus fruit? Emily brought some back with her when she went to visit her friend in the Calico Desert, and was very kind to give me some.$h",
-"Antoine.Fall.4h.11": "I think I like tending to the flowers in the cemetary the best. The spirits don't have a way to tend to them for themselves, but they always enjoy their resting place looking nice.$h",
+"Antoine.Fall.4h.11": "I think I like tending to the flowers in the cemetery the best. The spirits don't have a way to tend to them for themselves, but they always enjoy their resting place looking nice.$h",
 "Antoine.Fall.4h.12": "You have a pet, right @? I've thought about getting one, but they seem like a lot of trouble. I bet you feel like %pet is pretty worth it though, huh?$h",
 "Antoine.Fall.4h.13": "I caught a fat catfish in the river earlier. I should really get some milk to soak it in.",
 "Antoine.Fall.4h.14": "Fall leaves are brighter when there's been a lot of warm days followed by cold evenings. Just so long as it doesn't get too cold.#b#Ha ha, I feel the same way.$h",
+"Antoine.Fall.4h.15": "The falling leaves follow chaotic patterns that somehow express perfect order. Much like the universe itself, wouldn't you agree?$7 No? Just me then.$0",
 
 /*/ 4-Hearts ~ Winter /*/
 "Antoine.Winter.4h.1": "I wish I could stay home when it's cold like this, but there are flowers that love the snow and it's not fair if I just ignore them because I'm uncomfortable.$2",
@@ -726,6 +740,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Winter.4h.12": "I had a sort of lazy morning. It's hard to feel like getting things done sometimes.$6",
 "Antoine.Winter.4h.13": "The sauce in frozen pizza is always so sweet. Is it too much to ask that my tomato sauce doesn't taste like candy?$6",
 "Antoine.Winter.4h.14": "Mmmm, I should have made more hot chocolate to drink. I finished my last mug of it earlier and I miss it already.$s",
+"Antoine.Winter.4h.15": "Eloise asked why I don't participate in the 'Feast of the Winter Star.' I said that I'm not technically a star, despite my illuminating personality.$3#$b#I don't think she understood the joke.$0",
 
 /*/ 6-Hearts ~ Spring /*/
 "Antoine.Spring.6h.1": "I don't know about Joja-Mart. Rosa got some lemon juice from there, but it said it had artificial flavors. Which I find really strange, because she got dish soap from there too and it had real lemons in it.$7",
@@ -789,6 +804,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Winter.6h.13": "Hey, @. When you hear the word life, what do you think about?$7#b#It always fills me with joy. I always try and remind myself of that.$h",
 "Antoine.Winter.6h.14": "Last night I was wondering if I'm actually alive or if I'm just existing. I want to think that I'm alive, but then I would to think that, right? I didn't get much sleep.$s",
 "Antoine.Winter.6h.15": "I went into a room this morning and forgot why I was there, which had me pretty confused because my house is just one big room.$s",
+"Antoine.Winter.6h.16": "The winter constellations here tell stories I've never heard. Strange to think that on some other world, our sun is just another anonymous point of light.$10",
 
 /*/ 8-Hearts ~ Spring /*/
 "Antoine.Spring.8h.1": "I remember when people thought the sky was actually another sea, like the ocean, and stars were just floating in it. It's a nice idea, isn't it? Just making a ship and sailing to the moon?$h",
@@ -807,6 +823,8 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Summer.8h.5": "Dinosaur plants can bring themselves back from the dead. They can be without water for months, just sitting in a curled up dry ball. Then as soon as moisture hits them they spring back to life.$l#b#I've seen people do that too.$h",
 "Antoine.Summer.8h.6": "Oh! Did you know that glass is an amorphous solid?$l#b#That means it's not a solid or a liquid. It just. Is. I like that idea a lot.$h",
 "Antoine.Summer.8h.7": "Ha ha, I've thought about saying Ahoy-hoy instead of Hello on the phone, but I don't think a lot of people would get the reference.$h",
+"Antoine.Summer.8h.8": "Space is vast, a continuous expanse of unknowns. But here, in this moment, in this place, the air feels warm and safe. A quiet oasis in the infinite dark.$h",
+"Antoine.Summer.8h.9": "I like to watch the world move around me. It is never the same twice. $1",
 
 /*/ 8-Hearts ~ Fall /*/
 "Antoine.Fall.8h.1": "Orange fruits and vegetables are so energetic. It's no wonder why so many oranges want to be orange instead of green.$h",
@@ -816,6 +834,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Fall.8h.6": "You know, apples are a members of the rose family. I try to remember that when I'm feeling down about how I look.$h",
 "Antoine.Fall.8h.7": "You need saliva to actually taste food. It's almost as important as a sense of smell.$h",
 "Antoine.Fall.8h.8": "Be careful when you're upsetting crows. They can hold a grudge.$s",
+"Antoine.Fall.8h.9": "You know, there is something quite beautiful about the way the world turns. It may be a slow dance, but it is a dance nonetheless.$h",
 
 /*/ 8-Hearts ~ Winter /*/
 "Antoine.Winter.8h.1": "I can't stand Cranberry Candy. The cranberry part is fine, but the apples? Ugh, it just makes me think of $8",
@@ -825,6 +844,9 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Winter.8h.6": "I read that shadows are darker on the moon than they are here. There's no light to distribute through the atmosphere there.$s",
 "Antoine.Winter.8h.7": "There are more trees in the world than there are stars in the sky. Just something I think about sometimes.$0",
 "Antoine.Winter.8h.8": "I read that icebergs fizz like soda as they melt. I thought that was kind of neat.$0",
+"Antoine.Winter.8h.9": "The winter holds a stillness that feels almost sacred.$0 The universe began in silence; perhaps that's why quiet moments feel like home.$10",
+"Antoine.Winter.8h.10": "Snow... The way it falls in such delicate patterns, each flake a unique structure of water crystals. It reminds me of the complexity of the universe, but here, it's so simple, so pure.$h",
+"Antoine.Winter.8h.11": "When I look up at the stars, I think of the millions of other worlds that exist out there, some teeming with life, others completely barren. Yet, here, in the quiet of winter, I feel as though I've found something rare, something ... real. $s",
 
 /*/ 10-Hearts ~ Spring /*/
 "Antoine.Spring.10h.1": "Eye of newt, toe of frog, and wool of bat are just an old way of saying mustard seed, buttercup, and holly leaves.$h",
@@ -834,6 +856,8 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Spring.10h.5": "I used to watch people take pictures with the most sour faces on. Smiling wasn't in fashion so they'd say prunes to keep their frown on. I'm glad no one does that anymore.$h",
 "Antoine.Spring.10h.6": "I learned something really neat last night! The biggest waterfall in the world is actually under the water. Isn't that wild?$l",
 "Antoine.Spring.10h.7": "Have you ever found a huge murder in your yard? I found one in mine and all of my vegetables were picked clean. Crows are really obnoxious sometimes.$8",
+"Antoine.Spring.10h.8": "Ah, another season has arrived. How marvelous! The sun has not yet abandoned us. $1",
+
 
 /*/ 10-Hearts ~ Summer /*/
 "Antoine.Summer.10h.1": "I hear the tanks our military is using are equipped to make tea. So that's something, I guess.$8",
@@ -843,6 +867,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Summer.10h.5": "The next time you cut yourself you should get out some sugar. The granules absorb any moisture that the bacteria would live on. But don't use that as an excuse not to see Dr. Harvey.$h",
 "Antoine.Summer.10h.6": "Snails have teeth. 2,500 of them. That's more than even a shark has. They both use them to crush up their food though. So even sharks and snails can have something in common.$h",
 "Antoine.Summer.10h.7": "If you don't like horror movies you should go see some abstract art afterward. Oddly enough you'll probably like the art more.$h",
+"Antoine.Summer.10h.8": "Sometimes, when the sun is high, I feel as if I am in the heart of a star itself—burning brightly, surrounded by an expanse of heat. It's a strange but comforting feeling. $1",
 
 /*/ 10-Hearts ~ Fall /*/
 "Antoine.Fall.10h.1": "It must be so dizzying to be a bee. Their eyes composite 5000 individual images. I think that would drive me nuts.$s",
@@ -852,6 +877,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Fall.10h.5": "Honey is very cool. It never expires, you don't have to keep it cold to be fresh, and it can't fully freeze. It turns into a sort of gelatin instead.$h",
 "Antoine.Fall.10h.6": "Whatever you do DON'T put grapes in the microwave. They explode!$9#b#Don't, uh, don't ask me how I know that.$s",
 "Antoine.Fall.10h.7": "You know, vacuums used to be huge. You needed horses to take one to someone's house and professional put the hose in through your window. They've sure come a long way, huh?$h",
+"Antoine.Fall.10h.8": "Ah, yes, the endless cycle of life continues. How... reassuring. I do hope today brings a touch of unexpected joy. $1",
 
 /*/ 10-Hearts ~ Winter /*/
 "Antoine.Winter.10h.1": "To prevent predators from finding them geckos will eat their own skin when they shed it. That's kind of poetic, isn't it?$0",
@@ -961,6 +987,9 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Saloon.14": "I love watching Gus work in his back yard. Blacksmithing is a rare talent, and the coolest part is that it uses all four elements to forge something.$h",
 "Antoine.Saloon.15": "Do you ever take a second to play pool at the table over there? No? Me either. I always feel like it'd be rude to touch it.$0",
 "Antoine.Saloon.16": "Demetrius says that potatoes were the first vegetable they grew in space. Isn't that neat?$l",
+"Antoine.Saloon.17": "Sharing a table, a laugh, a story—these are the riches I value most. $1",
+"Antoine.Saloon.18": "Socializing is... required, sometimes. At least it's warm inside. $1",
+"Antoine.Saloon.19": "So many stories intersect here. I wonder if anyone realizes how extraordinary their ordinary lives are? $1",
 
 
 
@@ -1220,7 +1249,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
     /*/----------Recipe Sharing Letters----------/*/
 
     //Conditions: Gifted Food Item 
-    "Antoine.Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for your tasty gift! It really inspired me to try and cook the dish myself. I messed it up so I'm too embarassed to send it though.^ If you give me another one I won't chicken out this time though and definitely send you one back. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine[letterbg 2][#]The beginning of our cooking adventure!",
+    "Antoine.Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for your tasty gift! It really inspired me to try and cook the dish myself. I messed it up so I'm too embarrassed to send it though.^ If you give me another one I won't chicken out this time though and definitely send you one back. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine[letterbg 2][#]The beginning of our cooking adventure!",
 
     //Conditions: Gifted Omelet
     "Antoine.Mail.RecipeOmelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Omelet",
