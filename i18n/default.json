@@ -1,22 +1,16 @@
 {
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                          :: */
-/* ::      ,o888888o.     8 8888 8 8888888888 8888888 8888888888 d888888o.     :: */
-/* ::     8888     `88.   8 8888 8 8888             8 8888     .`8888:' `88.   :: */
-/* ::  ,8 8888       `8.  8 8888 8 8888             8 8888     8.`8888.   Y8   :: */
-/* ::  88 8888            8 8888 8 8888             8 8888     `8.`8888.       :: */
-/* ::  88 8888            8 8888 8 888888888888     8 8888      `8.`8888.      :: */
-/* ::  88 8888            8 8888 8 8888             8 8888       `8.`8888.     :: */
-/* ::  88 8888   8888888  8 8888 8 8888             8 8888        `8.`8888.    :: */
-/* ::  `8 8888       .8'  8 8888 8 8888             8 8888    8b   `8.`8888.   :: */
-/* ::     8888     ,88'   8 8888 8 8888             8 8888    `8b.  ;8.`8888   :: */
-/* ::      `8888888P'     8 8888 8 8888             8 8888     `Y8888P ,88P'   :: */
-/* ::                                                                          :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::: */
+/* ::                                    :: */
+/* ::   dP""b8 88 888888 888888 .dP"Y8   :: */
+/* ::  dP   `" 88 88__     88   `Ybo."   :: */
+/* ::  Yb  "88 88 88""     88   o.`Y8b   :: */
+/* ::   YboodP 88 88       88   8bodP'   :: */
+/* ::                                    :: */
+/* :::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::: */
 
 
 "Antoine.gift.love.1.1": "Oh! This is great! Thank you!$h",
@@ -31,146 +25,161 @@
 "Antoine.gift.hate.2": "... Maybe next time you could give me something else? Sorry.$s",
 "Antoine.gift.neutral.2": "Oh, for me? That's so nice. Thank you.$0",
 
-//[280]
+//[280] - Loved
 "Antoine.gift.yam.1": "A yam? Thanks, @! This is my favorite snack! They're just so versatile!$h",
 
-//[416]
+//[416] - Loved
 "Antoine.gift.snowyam.1": "Ah, the snow yam. A little more bitter than the yam you grow in the fall, but still tasty. Thank you! You really made my day.$h",
 
-//[492]
+//[492] - Liked
 "Antoine.gift.yamseeds.1": "Yam seeds! I've been needing more of these. Thank you!$h",
 
-//[457]
-"Antoine.gift.palebroth.1": "Marnie definitely ... well she um ... she really tried her best.",
+//[Book_QueenOfSauce] - Loved
+"Antoine.gift.queenofsauce.1": "A cook book from the Queen of Sauce herself! I can't wait to try every one of these recipes! Thank you!$h",
 
-//[222]
-"Antoine.gift.rhubarbpie.1": "Marnie makes an interesting pie! Putting rhubarb in it is really clever.",
+//[457] - Neutral
+"Antoine.gift.palebroth.1": "Marnie definitely ... well she um ... she really tried her best.$0",
 
-//[243]
-"Antoine.gift.minerstreat.1": "You really wouldn't know there's cave carrots in it just by looking at it. Maybe this can be a sneaky way to get the kids to eat some vegetables. Then again, the amount of sugar in it probably overrides any health benefits.",
+//[222] - Liked
+"Antoine.gift.rhubarbpie.1": "Marnie makes an interesting pie! Putting rhubarb in it is really clever.$h",
 
-//[197]
-"Antoine.gift.cheesecauliflower.1": "That cheese cauliflower recipe you sent mePam really likes putting cheese on things that would be pretty healthy otherwise.",
+//[243] - Liked
+"Antoine.gift.minerstreat.1": "You really wouldn't know there's cave carrots in it just by looking at it. Maybe this can be a sneaky way to get the kids to eat some vegetables. Then again, the amount of sugar in it probably overrides any health benefits.$h",
 
-//[239]
-"Antoine.gift.stuffing.1": "This one actually smells really good. Did Pam adapt this from a TV dinner? Well I'd say she definitely improved it!",
+//[197] - Neutral
+"Antoine.gift.cheesecauliflower.1": "Man, Pam really likes putting cheese on things that would be pretty healthy otherwise.$h",
 
-//[234]
-"Antoine.gift.blueberrytart.1": "This tart was very tasty. I'm surprised Pierre didn't make you pay for the recipe though. You'll have to let me know if he gives you anymore freebies!",
+//[239] - Liked
+"Antoine.gift.stuffing.1": "This one actually smells really good. Did Pam adapt this from a TV dinner? Well I'd say she definitely improved it!$h",
 
-//[236]
-"Antoine.gift.pumpkinsoup.1": "This soup is really nice, but sort of bland if you don't add more than just pumpkin and milk. Robin definitely seems to like things bland, huh?",
+//[234] - Liked
+"Antoine.gift.blueberrytart.1": "This tart was very tasty. I'm surprised Pierre didn't make you pay for the recipe though. You'll have to let me know if he gives you anymore freebies!$h",
 
-//[218]
-"Antoine.gift.tomkhasoup.1": "Oh! A recipe from Sandy! It's so interesting! It's pretty tasty too.",
+//[236] - Neutral
+"Antoine.gift.pumpkinsoup.1": "This soup is really nice, but sort of bland if you don't add more than just pumpkin and milk. Robin definitely seems to like things bland, huh?$h",
 
-//[215]
-"Antoine.gift.pepperpoppers.1": "Peppers fried with cheese inside. That slides sound like the sort of spicy greasy thing Shane enjoys. I heard he eats of lot of rich greasy foods for breakfast.",
+//[218] - Liked
+"Antoine.gift.tomkhasoup.1": "Oh! A recipe from Sandy! It's so interesting! It's pretty tasty too.$h",
 
-//[203]
-"Antoine.gift.strangebun.1": "Uh. The recipe you sent me from Shane has … a unique ingredient. I almost didn't get my hands on it. I'm sure they're just fine. I'll. Definitely try one later. After you.",
+//[215] - Neutral
+"Antoine.gift.pepperpoppers.1": "Peppers fried with cheese inside. That does sound like the sort of spicy greasy thing Shane enjoys. I heard he eats of lot of rich greasy foods for breakfast.$h",
 
-//[727]
-"Antoine.gift.chowder.1": "Willy is such a good cook. He almost gives Gus a run for his money. I like to add some potato to my chowder, but this was really nice as is.",
+//[203] - Neutral
+"Antoine.gift.strangebun.1": "Uh. The recipe you sent me from Shane has ... a unique ingredient. I almost didn't get my hands on it. I'm sure they're just fine. I'll. Definitely try one later. After you.$h",
 
-//[729]
-"Antoine.gift.escargot.1": "Soak snails in some butter and you've got a tasty treat. Sort of. You have a buttery one anyway. I wasn't sure if you were supposed to cook them with the shells on or not.",
+//[727] - Loved
+"Antoine.gift.chowder.1": "Willy is such a good cook. He almost gives Gus a run for his money. I like to add some potato to my chowder, but this was really nice as is.$h",
 
-//[728]
-"Antoine.gift.fishstew.1": "This stew is so hardy matey! Arrr! Um. Sorry. Was that a bit much?",
+//[729] - Neutral
+"Antoine.gift.escargot.1": "Soak snails in some butter and you've got a tasty treat. Sort of. You have a buttery one anyway. I wasn't sure if you were supposed to cook them with the shells on or not.$h",
 
-//[210]
-"Antoine.gift.hashbrowns.1": "You really can't miss when you fry a potato! The way the Queen of the Sauce does it is really interesting too! I got them extra golden for you.",
+//[728] - Liked
+"Antoine.gift.fishstew.1": "This stew is so hardy matey! Arrr! Um. Sorry. Was that a bit much?$h",
 
-//[198]
-"Antoine.gift.bakedfish.1": "I saw a rerun of Queen of Sauce where she shared a baked fish recipe that I just had to try! I even caught the fish myself so it'd be extra fresh.",
+//[210] - Liked
+"Antoine.gift.hashbrowns.1": "You really can't miss when you fry a potato! The way the Queen of the Sauce does it is really interesting too! I got them extra golden for you.$h",
 
-//[201]
-"Antoine.gift.completebreakfast.1": "I finally caught a new Queen of the Sauce and she made a complete breakfast!. She's just amazing. Everyone needs a complete breakfast. Especially you with all the work you do.",
+//[198] - Loved
+"Antoine.gift.bakedfish.1": "I saw a rerun of Queen of Sauce where she shared a baked fish recipe that I just had to try! I even caught the fish myself so it'd be extra fresh.$h",
 
-//[204]
-"Antoine.gift.luckylunch.1": "I'm feeling extra lucky today because I made the Queen of Sauce's Lucky Lunch! I hope you feel lucky today too!",
+//[201] - Loved
+"Antoine.gift.completebreakfast.1": "I finally caught a new Queen of the Sauce and she made a complete breakfast!. She's just amazing. Everyone needs a complete breakfast. Especially you with all the work you do.$h",
 
-//[229]
-"Antoine.gift.tortilla.1": "The second I saw you sent me this tortilla recipe I just had to hunt down the Queen of Sauce episode that it came from. It definitely didn't disappoint!",
+//[204] - Loved
+"Antoine.gift.luckylunch.1": "I'm feeling extra lucky today because I made the Queen of Sauce's Lucky Lunch! I hope you feel lucky today too!$h",
 
-//[206]
-"Antoine.gift.pizza.1": "The Queen of Sauce made a whole pizza on her show! I usually don't care for a lot of cheese, but hers looked so good! I hope mine looks good too.",
+//[229] - Loved
+"Antoine.gift.tortilla.1": "The second I saw you sent me this tortilla recipe I just had to hunt down the Queen of Sauce episode that it came from. It definitely didn't disappoint!$h",
 
-//[211]
-"Antoine.gift.pancakes.1": "Pancakes are so good! The recipe the Queen shared makes them so fluffy I just had to go outside right away and find a bunch of berries to eat with it. Uh, I didn't really include the berries with yours. I sort of ate them all.",
+//[206] - Loved
+"Antoine.gift.pizza.1": "The Queen of Sauce made a whole pizza on her show! I usually don't care for a lot of cheese, but hers looked so good! I hope mine looks good too.$h",
 
-//[209]
-"Antoine.gift.carpsurprise.1": "Um, usually the Queen knocks it out of the park, but this one was actually a bit bland? I guess that was the surprise.",
+//[211] - Loved
+"Antoine.gift.pancakes.1": "Pancakes are so good! The recipe the Queen shared makes them so fluffy I just had to go outside right away and find a bunch of berries to eat with it. Uh, I didn't really include the berries with yours. I sort of ate them all.$h",
 
-//[208]
-"Antoine.gift.glazedyams.1": "Yams! The Queen used yams on her show! Aaah, I'm so happy! I love yams! The glaze makes them extra tasty too.",
+//[209] - Neutral
+"Antoine.gift.carpsurprise.1": "Um, usually the Queen knocks it out of the park, but this one was actually a bit bland? I guess that was the surprise.$h",
 
-//[610]
-"Antoine.gift.fruitsalad.1": "This one is simple to make, but it's such a good use of summer fruits! The Queen of Sauce never ceases to amaze me.",
+//[208] - Loved
+"Antoine.gift.glazedyams.1": "Yams! The Queen used yams on her show! Aaah, I'm so happy! I love yams! The glaze makes them extra tasty too.$h",
 
-//[606]
-"Antoine.gift.stirfry.1": "The cave carrots really put this stir fry on a whole new level. The Queen even had great tips on how to keep the rice fluffy!",
+//[610] - Loved
+"Antoine.gift.fruitsalad.1": "This one is simple to make, but it's such a good use of summer fruits! The Queen of Sauce never ceases to amaze me.$h",
 
-//[604]
-"Antoine.gift.plumpudding.1": "The Queen really did make a classic seasonal treat, didn't she? I'm not sure why it only get eaten in the winter though. The plums aren't really that fresh by then.",
+//[606] - Loved
+"Antoine.gift.stirfry.1": "The cave carrots really put this stir fry on a whole new level. The Queen even had great tips on how to keep the rice fluffy!$h",
 
-//[651]
-"Antoine.gift.poppyseedmuffin.1": "Shane warned me that if I eat these I could get in trouble if I want to get a job. It was a confusing conversation, but the muffins turned out tasty!",
+//[604] - Neutral
+"Antoine.gift.plumpudding.1": "The Queen really did make a classic seasonal treat, didn't she? I'm not sure why it only get eaten in the winter though. The plums aren't really that fresh by then.$h",
 
-//[219]
-"Antoine.gift.troutsoup.1": "I mean, you can't really blame the Queen for this one. Trout soup? What was bound to be pretty salty. I don't mind the texture, but I heard it makes some people gag. So be careful!",
+//[651] - Loved
+"Antoine.gift.poppyseedmuffin.1": "Shane warned me that if I eat these I could get in trouble if I want to get a job. It was a confusing conversation, but the muffins turned out tasty!$h",
 
-//[611]
-"Antoine.gift.blackberrycobbler.1": "Aaah, the Queen made me so nostalgic with this recipe. A blackberry cobbler really is a slice of home for me. I'd see the older ladies putting all kinds of different fruits in this. Peach was my absolute favorite.",
+//[219] - Neutral
+"Antoine.gift.troutsoup.1": "I mean, you can't really blame the Queen for this one. Trout soup? What was bound to be pretty salty. I don't mind the texture, but I heard it makes some people gag. So be careful!$h",
 
-//[648]
-"Antoine.gift.coleslaw.1": "This coleslaw is a lot lighter than what I saw back at home. The older ladies used way more mayonnaise. I really like the Queen's version though. It's crisp.",
+//[611] - Loved
+"Antoine.gift.blackberrycobbler.1": "Aaah, the Queen made me so nostalgic with this recipe. A blackberry cobbler really is a slice of home for me. I'd see the older ladies putting all kinds of different fruits in this. Peach was my absolute favorite.$h",
 
-//[731]
-"Antoine.gift.maplebar.1": "Phew! I almost didn't manage to make this one. The Queen of Sauce makes it look so easy, but it's really not! I think my maple bar is a little chewier than it's supposed to be.",
+//[648] - Loved
+"Antoine.gift.coleslaw.1": "This coleslaw is a lot lighter than what I saw back at home. The older ladies used way more mayonnaise. I really like the Queen's version though. It's crisp.$h",
 
-//[220]
-"Antoine.gift.chocolatecake.1": "This recipe made so much cake! The Queen really likes to indulge for the holidays, huh? The chocolate made this extra rich, so maybe don't eat the whole thing at once like I've seen you do with other stuff.",
+//[731] - Neutral
+"Antoine.gift.maplebar.1": "Phew! I almost didn't manage to make this one. The Queen of Sauce makes it look so easy, but it's really not! I think my maple bar is a little chewier than it's supposed to be.$h",
 
-//[730]
-"Antoine.gift.lobsterbisque.1": "Wow, it's crazy how the Queen's recipe for lobster bisque tastes just like Willy's. I'm sure it's just a coincidence.",
+//[220] - Loved
+"Antoine.gift.chocolatecake.1": "This recipe made so much cake! The Queen really likes to indulge for the holidays, huh? The chocolate made this extra rich, so maybe don't eat the whole thing at once like I've seen you do with other stuff.$h",
 
-//[732]
-"Antoine.gift.crabcakes.1": "Man, the smell of these crab cakes really brought me back. I used to see people frying these all the time. Thanks to the Queen of Sauce I finally get to try some! And you do too!",
+//[730] - Neutral
+"Antoine.gift.lobsterbisque.1": "Wow, it's crazy how the Queen's recipe for lobster bisque tastes just like Willy's. I'm sure it's just a coincidence.$h",
 
-//[609]
-"Antoine.gift.radishsalad.1": "Radishes have an interesting sort of spiciness to them, don't they? It doesn't burn like a hot pepper does. The vinegar really makes these shine though! The Queen is so smart.",
+//[732] - Loved
+"Antoine.gift.crabcakes.1": "Man, the smell of these crab cakes really brought me back. I used to see people frying these all the time. Thanks to the Queen of Sauce I finally get to try some! And you do too!$h",
 
-//[228]
-"Antoine.gift.makiroll.1": "I saw Gus selling this recipe at the saloon. I wonder if his tastes like the Queen's does? It's definitely my favorite way to eat fish!",
+//[609] - Neutral
+"Antoine.gift.radishsalad.1": "Radishes have an interesting sort of spiciness to them, don't they? It doesn't burn like a hot pepper does. The vinegar really makes these shine though! The Queen is so smart.$h",
 
-//[221]
-"Antoine.gift.pinkcake.1": "The Queen of Sauce made this cake look so cute! I tried to follow along, but I think I sort of botched it. Oh well, it still tastes great!",
+//[228] - Loved
+"Antoine.gift.makiroll.1": "I saw Gus selling this recipe at the saloon. I wonder if his tastes like the Queen's does? It's definitely my favorite way to eat fish!$h",
 
-//[608]
-"Antoine.gift.pumpkinpie.1": "This really feels like it'd be a great fall treat. The spices the Queen recommended takes this to a whole new level. I'm actually pretty proud of this one.",
+//[221] - Loved
+"Antoine.gift.pinkcake.1": "The Queen of Sauce made this cake look so cute! I tried to follow along, but I think I sort of botched it. Oh well, it still tastes great!$h",
 
-//[618]
-"Antoine.gift.bruschetta.1": "Nothing is better than when bread gets crunchy and you can spread things on it. The Queen's roasted tomatoes are just great on it! You should pair this with a nice drink too.",
+//[608] - Loved
+"Antoine.gift.pumpkinpie.1": "This really feels like it'd be a great fall treat. The spices the Queen recommended takes this to a whole new level. I'm actually pretty proud of this one.$h",
 
-//[605]
-"Antoine.gift.artichokedip.1": "I knew you could make a dip from onions, but artichokes? It's surprisingly tasty! The Queen said you should get this with chips for extra salt and crunch.",
+//[618] - Loved
+"Antoine.gift.bruschetta.1": "Nothing is better than when bread gets crunchy and you can spread things on it. The Queen's roasted tomatoes are just great on it! You should pair this with a nice drink too.$h",
 
-//[649]
-"Antoine.gift.fiddleheadrisotto.1": "Risotto is so hard! I wasted so much garlic just making it over and over again. I really don't know how the Queen of Sauce managed to make hers so fast.",
+//[605] - Neutral
+"Antoine.gift.artichokedip.1": "I knew you could make a dip from onions, but artichokes? It's surprisingly tasty! The Queen said you should get this with chips for extra salt and crunch.$h",
 
-//[216]
-"Antoine.gift.bread.1": "I think my favorite thing to do with bread is make sandwiches. The Queen's bread is extra crusty too, I could eat it with just a little butter. I'm interested in what you're going to do with yours!",
+//[649] - Loved
+"Antoine.gift.fiddleheadrisotto.1": "Risotto is so hard! I wasted so much garlic just making it over and over again. I really don't know how the Queen of Sauce managed to make hers so fast.$h",
 
-//[607]
-"Antoine.gift.roastedhazelnuts.1": "This smelled so good. I almost ate them all before I could bring you some. I tried to make you more, but they didn't last long.",
+//[216] - Loved
+"Antoine.gift.bread.1": "I think my favorite thing to do with bread is make sandwiches. The Queen's bread is extra crusty too, I could eat it with just a little butter. I'm interested in what you're going to do with yours!$h",
 
-//[612]
-"Antoine.gift.cranberrycandy.1": "Ha ha, I'm not really sure how I feel about cooking with apples. Watching the Queen of Sauce chopping them up and putting them in a blender… Anyway, it did a good job making a bitter fruit taste really sweet!",
+//[607] - Loved
+"Antoine.gift.roastedhazelnuts.1": "This smelled so good. I almost ate them all before I could bring you some. I tried to make you more, but they didn't last long.$h",
 
-//[733]
-"Antoine.gift.shrimpcocktail.1": "Who knew that cocktail sauce was just tomatoes and horseradish? The Queen sure did! I like mine with extra horseradish, but I made yours normally.",
+//[612] - Neutral
+"Antoine.gift.cranberrycandy.1": "Ha ha, I'm not really sure how I feel about cooking with apples. Watching the Queen of Sauce chopping them up and putting them in a blender... Anyway, it did a good job making a bitter fruit taste really sweet!$h",
+
+//[733] - Loved
+"Antoine.gift.shrimpcocktail.1": "Who knew that cocktail sauce was just tomatoes and horseradish? The Queen sure did! I like mine with extra horseradish, but I made yours normally.$h",
+
+//[MossSoup] - Loved
+"Antoine.gift.mosssoup.1": "This texture so so interesting, and there is a very earthy flavor to it that brings back fond memories of swamps. Thanks!$h",
+
+//[772] - Loved
+"Antoine.gift.oilofgarlic.1": "I've never seen anything like this before. It's so fragrant! I'm sure it's not the best for you, but it smells so good!$h",
+
+//[874] - Loved
+"Antoine.gift.bugsteak.1": "This is going to be very interesting to fry up later. Or should I just eat it as is? Hmmm, decisions decisions...$h",
+
+//[403] - Liked
+"Antoine.gift.fieldsnack.1": "Oh, I love making these when I'm out in the woods. It's so savory and crunchy.$h",
 
 
 
@@ -183,22 +192,17 @@
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                :: */
-/* ::  8 8888888888   8 8888888888     d888888o. 8888888 8888888888  :: */
-/* ::  8 8888         8 8888         .`8888:' `88.     8 8888        :: */
-/* ::  8 8888         8 8888         8.`8888.   Y8     8 8888        :: */
-/* ::  8 8888         8 8888         `8.`8888.         8 8888        :: */
-/* ::  8 888888888888 8 888888888888  `8.`8888.        8 8888        :: */
-/* ::  8 8888         8 8888           `8.`8888.       8 8888        :: */
-/* ::  8 8888         8 8888            `8.`8888.      8 8888        :: */
-/* ::  8 8888         8 8888        8b   `8.`8888.     8 8888        :: */
-/* ::  8 8888         8 8888        `8b.  ;8.`8888     8 8888        :: */
-/* ::  8 8888         8 888888888888 `Y8888P ,88P'     8 8888        :: */
-/* ::                                                                :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                                            :: */
+/* ::  888888 888888 .dP"Y8 888888 88 Yb    dP    db    88       :: */
+/* ::  88__   88__   `Ybo."   88   88  Yb  dP    dPYb   88       :: */
+/* ::  88""   88""   o.`Y8b   88   88   YbdP    dP__Yb  88  .o   :: */
+/* ::  88     888888 8bodP'   88   88    YP    dP""""Yb 88ood8   :: */
+/* ::                                                            :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 
 /*/  Generic Festival /*/
@@ -234,14 +238,12 @@
 
 
 //SPECIFIC DAY DIALOGUE
-"spring_4": "Did you grow any parsnips this year, @?$l#$b#I bet they're fully grown already!$h",
-"spring_10": "Coffee beans are actually the pit of a berry, which technically makes them a fruit!$l#$b#I just thought that was neat.$h",
+"Antoine.spring_4": "Did you grow any parsnips this year, @?$l#$b#I bet they're fully grown already!$h",
+"Antoine.spring_10": "Coffee beans are actually the pit of a berry, which technically makes them a fruit!$l#$b#I just thought that was neat.$h",
 
-"summer_5": "Why do people complain about burning when they eat hot peppers? They don't seem that hot to me.$7#$b#Emily said that birds don't think hot peppers are hot either.$h",
-"fall_5": "I wonder why Juliet laughs when I talk about how big eggplants are?$7",
-"fall_10": "Everybody talks about fall reminding them of pumpkins, but I always think about yams!$l#$b#They're just so tasty, and can go in anything, and they're really nice glazed or in a pie.$h",
-
-
+"Antoine.summer_5": "Why do people complain about burning when they eat hot peppers? They don't seem that hot to me.$7#$b#Emily said that birds don't think hot peppers are hot either.$h",
+"Antoine.fall_5": "I wonder why Juliet laughs when I talk about how big eggplants are?$7",
+"Antoine.fall_10": "Everybody talks about fall reminding them of pumpkins, but I always think about yams!$l#$b#They're just so tasty, and can go in anything, and they're really nice glazed or in a pie.$h",
 
 
 
@@ -256,22 +258,18 @@
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                                                    :: */
-/* ::  8888888 8888888888 ,o888888o.     8 8888     ,88' 8 8888888888   b.             8    d888888o.    :: */
-/* ::        8 8888    . 8888     `88.   8 8888    ,88'  8 8888         888o.          8  .`8888:' `88.  :: */
-/* ::        8 8888   ,8 8888       `8b  8 8888   ,88'   8 8888         Y88888o.       8  8.`8888.   Y8  :: */
-/* ::        8 8888   88 8888        `8b 8 8888  ,88'    8 8888         .`Y888888o.    8  `8.`8888.      :: */
-/* ::        8 8888   88 8888         88 8 8888 ,88'     8 888888888888 8o. `Y888888o. 8   `8.`8888.     :: */
-/* ::        8 8888   88 8888         88 8 8888 88'      8 8888         8`Y8o. `Y88888o8    `8.`8888.    :: */
-/* ::        8 8888   88 8888        ,8P 8 888888<       8 8888         8   `Y8o. `Y8888     `8.`8888.   :: */
-/* ::        8 8888   `8 8888       ,8P  8 8888 `Y8.     8 8888         8      `Y8o. `Y8 8b   `8.`8888.  :: */
-/* ::        8 8888    ` 8888     ,88'   8 8888   `Y8.   8 8888         8         `Y8o.` `8b.  ;8.`8888  :: */
-/* ::        8 8888       `8888888P'     8 8888     `Y8. 8 888888888888 8            `Yo  `Y8888P ,88P'  :: */
-/* ::                                                                                                    :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+
+/* :::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                              :: */
+/* ::  888888  dP"Yb  88  dP 888888 88b 88 .dP"Y8  :: */
+/* ::    88   dP   Yb 88odP  88__   88Yb88 `Ybo."  :: */
+/* ::    88   Yb   dP 88"Yb  88""   88 Y88 o.`Y8b  :: */
+/* ::    88    YbodP  88  Yb 888888 88  Y8 8bodP'  :: */
+/* ::                                              :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 
 
@@ -298,46 +296,97 @@
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                                              :: */
-/* ::  8888888 8888888888 ,o888888o.     8 888888888o    8 8888     ,o888888o.       d888888o.     :: */
-/* ::        8 8888    . 8888     `88.   8 8888    `88.  8 8888    8888     `88.   .`8888:' `88.   :: */
-/* ::        8 8888   ,8 8888       `8b  8 8888     `88  8 8888 ,8 8888       `8.  8.`8888.   Y8   :: */
-/* ::        8 8888   88 8888        `8b 8 8888     ,88  8 8888 88 8888            `8.`8888.       :: */
-/* ::        8 8888   88 8888         88 8 8888.   ,88'  8 8888 88 8888             `8.`8888.      :: */
-/* ::        8 8888   88 8888         88 8 888888888P'   8 8888 88 8888              `8.`8888.     :: */
-/* ::        8 8888   88 8888        ,8P 8 8888          8 8888 88 8888               `8.`8888.    :: */
-/* ::        8 8888   `8 8888       ,8P  8 8888          8 8888 `8 8888       .8' 8b   `8.`8888.   :: */
-/* ::        8 8888    ` 8888     ,88'   8 8888          8 8888    8888     ,88'  `8b.  ;8.`8888   :: */
-/* ::        8 8888       `8888888P'     8 8888          8 8888     `8888888P'     `Y8888P ,88P'   :: */
-/* ::                                                                                              :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                            :: */
+/* ::  888888  dP"Yb  88""Yb 88  dP""b8 .dP"Y8   :: */
+/* ::    88   dP   Yb 88__dP 88 dP   `" `Ybo."   :: */
+/* ::    88   Yb   dP 88"""  88 Yb      o.`Y8b   :: */
+/* ::    88    YbodP  88     88  YboodP 8bodP'   :: */
+/* ::                                            :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::: */
 
-
+//intro
 "intro.Antoine.spring.1": "Oh! Nice to meet you, I'm Antoine. You have some pretty heavy energies around you. I bet you make a big impact on things in your town.$h",
 "intro.Antoine.spring.2": "Hey, it's good to meet you! I hope we can be really good friends.$h",
-
 "intro.Antoine.summer.1": "Hello! It's great to meet you! I'm Antoine. You have some pretty heavy energies around you. I bet you make a big impact on things in your town.$h",
 "intro.Antoine.summer.2": "Oh, you've got a real sense of the earth about you. I bet we'll get along great.$h",
-
 "intro.Antoine.fall.1": "Ah, hello there. I'm Antoine. You have the look of someone who shoulders a lot of responsibility. Let me know if there's anything I can do to help you with that.$0",
 "intro.Antoine.fall.2": "Nice to meet you, do you have a favorite warm drink? I'd love to make you some if you've got time.",
-
 "intro.Antoine.winter.1": "%The man is smiling, but it looks forced somehow.#b#Hello, I'm Antoine. It's nice to see a new face. I hope you enjoy your stay in town.$0",
 "intro.Antoine.winter.2": "Oh, hey there. I'm Antoine. Nice to meet you.$0",
 
+//green rain
+"Antoine.GreenRain": "There's something effervescent about the air today. It's so refreshing!$l",
+"Antoine.GreenRainFinished": "Sooms the rain has stopped now. Such a shame.$6",
 
-"cc_Minecart":  "It should be much easier to travel through town now. Though the ride is a bit scary.$h",
-"cc_Bus": "Coconuts are so versatile! They're tasty, they go well in desserts and drinks, and their oil is so good for your skin too.$h",
-"cc_Boulder": "Ah, the water was straining quite a lot. It must be a relief to flow freely once again.$h",
-"cc_Greenhouse": "A greenhouse is a wonderful thing. I'm happy you managed to obtain one.$h",
-"movieTheater": "We have a movie theater. It's nice to see that space being repurposed.$h",
-"cc_Complete":  "It doesn't surprise me that you gravitated towards the community here. I wonder if magic had not been at your back if you would have done as well?$0#$b#Regardless, I'm very happy that everyone is coming together.$h",
-"joja_Begin": "Be careful with your choices. You are dynamic, and your actions affect more than just yourself.$s",
-"pamHouseUpgrade": "It was so nice of you to give Pam and Penny a better home! Maybe if Pam is surrounded by wood instead of metal she can start to feel better.$h",
-"pamHouseUpgradeAnonymous": "Did you hear that someone built Pam and Penny a house? Maybe if Pam is surrounded by wood instead of metal she can start to feel better.$h",
+//dating
+"Antoine.breakUp": "I see. I respect your decision, though it does upset me. I ... need some time. I think...$6",
+"Antoine.RejectBouquet_NotDatable": "Ah, a bouquet is such a sweet gesture. I'm sorry, but I'm not able to accept it. I just don't think I can make that commitment to you right now.$h",
+"Antoine.RejectBouquet_NpcAlreadyMarried": "Oh, how sweet of you!$h",
+"Antoine.RejectBouquet_VeryLowHearts": "What nice flowers! Who do you plan to give them to?$h",
+"Antoine.RejectBouquet_LowHearts": "Oh. Do you need me to brighten those up for you?$7",
+"Antoine.RejectBouquet": "Ah, I see. Thank you but ... I don't think I'm ready for that commitment right now.$h",
+
+//marriage
+"Antoine.SpouseFarmhouseClutter": "It's so messy in here. Don't you think so?$s",
+"Antoine.Spouse_MonstersInHouse": "Watch out! There are monsters in the house!$9",
+"Antoine.SpouseStardrop": "I have something for you! I grew it myself!$h",
+"Antoine.RejectMermaidPendant_NeedHouseUpgrade": "I'm sorry, but I don't think you have enough space in your house for me.$h",
+"Antoine.RejectMermaidPendant_NotDatable": "I'm sorry, but I don't think I can make that commitment to you right now.$h",
+"Antoine.RejectMermaidPendant_NpcWithSomeoneElse": "I'm sorry, but I'm already taken.$h",
+"Antoine.RejectMermaidPendant_PlayerWithSomeoneElse": "I really don't think your partner would be very happy that you're giving me this.$6",
+"Antoine.RejectMermaidPendant_Under8Hearts": "I feel strongly about you, but this is moving a bit quickly, isn't it?$h",
+"Antoine.RejectMermaidPendant_Under10Hearts": "A pendant? I love you, but I'm not sure this is the right time.$h",
+"Antoine.RejectMermaidPendant_Under10Hearts_AskedAgain": "Ah, again. You're very persistent, and I wish I could say yes, but I just don't feel ready for that sort of step just yet.$h",
+"Antoine.RejectMermaidPendant": "I'm sorry, but I don't think I can make that commitment to you right now.$h",
+
+//divorced
+"Antoine.divorced": "So this is it then. It was a wonderful adventure we shared, but I understand you feel it's now over. I wish you nothing but happiness, @. Truely.$s",
+"Antoine.RejectGift_Divorced": "Normally I am happy to recieve gifts from you, but this feels a bit ... mean spirited.$6",
+"Antoine.RejectMermaidPendant_Divorced": "Again? After how it ended last time? No I ... don't think I can repeat that.$6",
+"Antoine.RejectBouquet_Divorced": "You know, you had all of me before and decided things were not working between us. Let's not repeat out mistakes, hmm?$6",
+"Antoine.WipedMemory": "I ... feel like I've forgotten something very important... Ah well, what do you need, @?$h",
+
+//island
+"Antoine.Resort": "The sun here really is quite delicious.$h",
+"Antoine.Resort_Bar": "The drinks here seem quite ... strong. I'd best avoid them, I think.$h",
+"Antoine.Resort_Chair": "I see you're enjoying the view. It's so peaceful here.$h",
+"Antoine.Resort_Dance": "Ah, do you wish to dance with me? The music is invigorating.$h",
+"Antoine.Resort_Entering": "I see you're enjoying the music. It's so ... lively.$h",
+"Antoine.Resort_Leaving": "Well I must be off. It's been a pleasure.$h",
+"Antoine.Resort_Shore": "I see you're enjoying the shore. It's so peaceful here.$h",
+"Antoine.Resort_Towel": "This towel seems to be, ah, well used.$s",
+"Antoine.Resort_Umbrella": "I adore the sun, but even I need a break from it every once in a while.$h",
+"Antoine.Resort_Wander": "I think I'll wander and see where my feet take me.$h",
+
+//birthday
+"Antoine.AcceptBirthdayGift_Negative": "Is this for me? I don't think I'll like it but I'll try and make some use of it...$s",
+"Antoine.AcceptBirthdayGift_Positive": "Ah! How wonderful! Thank you!$h",
+"Antoine.AcceptBirthdayGift": "A gift for me? How thoughtful of you.$h",
+
+//dating proposal
+"Antoine.AcceptBouquet": "Really? For me? I'd love to accept it!$h",
+
+//trashcan
+"Antoine.DumpsterDiveComment": "I see you think people have the most interesting trash too.$h",
+
+//slingshot
+"Antoine.HitBySlingshot": "Ah, I see you're a bit of a marksman. I bet you could hit a target from a mile away.$h",
+
+
+
+
+"Antoine.cc_Minecart":  "It should be much easier to travel through town now. Though the ride is a bit scary.$h",
+"Antoine.cc_Bus": "Coconuts are so versatile! They're tasty, they go well in desserts and drinks, and their oil is so good for your skin too.$h",
+"Antoine.cc_Boulder": "Ah, the water was straining quite a lot. It must be a relief to flow freely once again.$h",
+"Antoine.cc_Greenhouse": "A greenhouse is a wonderful thing. I'm happy you managed to obtain one.$h",
+"Antoine.movieTheater": "We have a movie theater. It's nice to see that space being repurposed.$h",
+"Antoine.cc_Complete":  "It doesn't surprise me that you gravitated towards the community here. I wonder if magic had not been at your back if you would have done as well?$0#$b#Regardless, I'm very happy that everyone is coming together.$h",
+"Antoine.joja_Begin": "Be careful with your choices. You are dynamic, and your actions affect more than just yourself.$s",
+"Antoine.pamHouseUpgrade": "It was so nice of you to give Pam and Penny a better home! Maybe if Pam is surrounded by wood instead of metal she can start to feel better.$h",
+"Antoine.pamHouseUpgradeAnonymous": "Did you hear that someone built Pam and Penny a house? Maybe if Pam is surrounded by wood instead of metal she can start to feel better.$h",
 
 /*/
 
@@ -348,6 +397,11 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.movies.#.after": "The snack you got me was really delicious! Huh? What did I think of the movie? Um, I got a little lost so I'm not actually sure I understood what it was about.$0#$b#I hope you're not disappointed. I'd love to go to the movies with you again.$h",
 
 /*/
+"RejectMovieTicket_AlreadyInvitedBySomeoneElse": "Oh, I'm terribly sorry, but I'm too busy to see that one with you. Someone else has already asked.",
+"RejectMovieTicket_AlreadyWatchedThisWeek": "Oh, you wish to see it again? Sounds fun!",
+"RejectMovieTicket_Divorced": "I'm surprised you want to watch that with me... I'm not sure I'd be able to handle it.",
+"RejectMovieTicket_DontWantToSeeThatMovie": "I'm sorry, but I don't want to see that movie.",
+"RejectMovieTicket": "I'm sorry, but I'm not really in a movie mood.",
 
 /*/ Invites /*/
 "MovieInvite.Antoine.spring.1": "You want me to watch a movie with you? Oh, I'd love to, @!$h",
@@ -508,22 +562,16 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                            :: */
-/* ::  8 888888888o.            .8.           8 8888 8 8888  `8.`8888.      ,8'  :: */
-/* ::  8 8888    `^888.        .888.          8 8888 8 8888   `8.`8888.    ,8'   :: */
-/* ::  8 8888        `88.     :88888.         8 8888 8 8888    `8.`8888.  ,8'    :: */
-/* ::  8 8888         `88    . `88888.        8 8888 8 8888     `8.`8888.,8'     :: */
-/* ::  8 8888          88   .8. `88888.       8 8888 8 8888      `8.`88888'      :: */
-/* ::  8 8888          88  .8`8. `88888.      8 8888 8 8888       `8. 8888       :: */
-/* ::  8 8888         ,88 .8' `8. `88888.     8 8888 8 8888        `8 8888       :: */
-/* ::  8 8888        ,88'.8'   `8. `88888.    8 8888 8 8888         8 8888       :: */
-/* ::  8 8888    ,o88P' .888888888. `88888.   8 8888 8 8888         8 8888       :: */
-/* ::  8 888888888P'   .8'       `8. `88888.  8 8888 8 888888888888 8 8888       :: */
-/* ::                                                                            :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                      :: */
+/* ::  8888b.     db    88 88     Yb  dP   :: */
+/* ::   8I  Yb   dPYb   88 88      YbdP    :: */
+/* ::   8I  dY  dP__Yb  88 88  .o   8P     :: */
+/* ::  8888Y"  dP""""Yb 88 88ood8  dP      :: */
+/* ::                                      :: */
+/* :::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::: */
 
 
 /*/ 0-Hearts ~ Spring /*/
@@ -885,24 +933,18 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                                                                                :: */
-/* ::  8 8888         ,o888888o.         ,o888888o.           .8.    8888888 8888888888  8 8888     ,o888888o.     b.             8  :: */
-/* ::  8 8888      . 8888     `88.      8888     `88.        .888.         8 8888        8 8888  . 8888     `88.   888o.          8  :: */
-/* ::  8 8888     ,8 8888       `8b  ,8 8888       `8.      :88888.        8 8888        8 8888 ,8 8888       `8b  Y88888o.       8  :: */
-/* ::  8 8888     88 8888        `8b 88 8888               . `88888.       8 8888        8 8888 88 8888        `8b .`Y888888o.    8  :: */
-/* ::  8 8888     88 8888         88 88 8888              .8. `88888.      8 8888        8 8888 88 8888         88 8o. `Y888888o. 8  :: */
-/* ::  8 8888     88 8888         88 88 8888             .8`8. `88888.     8 8888        8 8888 88 8888         88 8`Y8o. `Y88888o8  :: */
-/* ::  8 8888     88 8888        ,8P 88 8888            .8' `8. `88888.    8 8888        8 8888 88 8888        ,8P 8   `Y8o. `Y8888  :: */
-/* ::  8 8888     `8 8888       ,8P  `8 8888       .8' .8'   `8. `88888.   8 8888        8 8888 `8 8888       ,8P  8      `Y8o. `Y8  :: */
-/* ::  8 8888      ` 8888     ,88'      8888     ,88' .888888888. `88888.  8 8888        8 8888  ` 8888     ,88'   8         `Y8o.`  :: */
-/* ::  8 888888888888 `8888888P'         `8888888P'  .8'       `8. `88888. 8 8888        8 8888     `8888888P'     8            `Yo  :: */
-/* ::                                                                                                                                :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                                                            :: */
+/* ::  88      dP"Yb   dP""b8    db    888888 88  dP"Yb  88b 88    db    88      :: */
+/* ::  88     dP   Yb dP   `"   dPYb     88   88 dP   Yb 88Yb88   dPYb   88      :: */
+/* ::  88  .o Yb   dP Yb       dP__Yb    88   88 Yb   dP 88 Y88  dP__Yb  88  .o  :: */
+/* ::  88ood8  YbodP   YboodP dP""""Yb   88   88  YbodP  88  Y8 dP""""Yb 88ood8  :: */
+/* ::                                                                            :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
-//Saloon Dialogue
+//Saloon 
 "Antoine.Saloon.1": "One time I listened to Gus and Pam debate for hours if cereal counts as a soup or not. Pam was staunchly pro soup, but honestly it seems too chunky to be a soup. Maybe a stew?$7",
 "Antoine.Saloon.2": "I asked Demetrius once what radioactive vegetables would taste like, and he said that it wouldn't taste like anything, and in fact, we'd never know if it was irradiated at all. How spooky.$7",
 "Antoine.Saloon.3": "I heard Maru and Sam arguing about if chickens came first or eggs did. It sort of devolved into Maru yelling eggs come first, and Sam yelling chickens come first. Then Abigail started laughing and wouldn't explain why.$7",
@@ -934,22 +976,16 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                                                                                  :: */
-/* ::  `8.`888b                 ,8' 8 8888888888            .8.    8888888 8888888888 8 8888        8 8 8888888888   8 888888888o.     :: */
-/* ::   `8.`888b               ,8'  8 8888                 .888.         8 8888       8 8888        8 8 8888         8 8888    `88.    :: */
-/* ::    `8.`888b             ,8'   8 8888                :88888.        8 8888       8 8888        8 8 8888         8 8888     `88    :: */
-/* ::     `8.`888b     .b    ,8'    8 8888               . `88888.       8 8888       8 8888        8 8 8888         8 8888     ,88    :: */
-/* ::      `8.`888b    88b  ,8'     8 888888888888      .8. `88888.      8 8888       8 8888        8 8 888888888888 8 8888.   ,88'    :: */
-/* ::       `8.`888b .`888b,8'      8 8888             .8`8. `88888.     8 8888       8 8888        8 8 8888         8 888888888P'     :: */
-/* ::        `8.`888b8.`8888'       8 8888            .8' `8. `88888.    8 8888       8 8888888888888 8 8888         8 8888`8b         :: */
-/* ::         `8.`888`8.`88'        8 8888           .8'   `8. `88888.   8 8888       8 8888        8 8 8888         8 8888 `8b.       :: */
-/* ::          `8.`8' `8,`'         8 8888          .888888888. `88888.  8 8888       8 8888        8 8 8888         8 8888   `8b.     :: */
-/* ::           `8.`   `8'          8 888888888888 .8'       `8. `88888. 8 8888       8 8888        8 8 888888888888 8 8888     `88.   :: */
-/* ::                                                                                                                                  :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                                            :: */
+/* ::  Yb        dP 888888    db    888888 88  88 888888 88""Yb  :: */
+/* ::   Yb  db  dP  88__     dPYb     88   88  88 88__   88__dP  :: */
+/* ::    YbdPYbdP   88""    dP__Yb    88   888888 88""   88"Yb   :: */
+/* ::     YP  YP    888888 dP""""Yb   88   88  88 888888 88  Yb  :: */
+/* ::                                                            :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 //Note: Antoine does NOT like being out in the snow. 
 
@@ -982,69 +1018,144 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
 
 
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                                              :: */
+/* ::  8b    d8    db    88""Yb 88""Yb 88    db     dP""b8 888888  :: */
+/* ::  88b  d88   dPYb   88__dP 88__dP 88   dPYb   dP   `" 88__    :: */
+/* ::  88YbdP88  dP__Yb  88"Yb  88"Yb  88  dP__Yb  Yb  "88 88""    :: */
+/* ::  88 YY 88 dP""""Yb 88  Yb 88  Yb 88 dP""""Yb  YboodP 888888  :: */
+/* ::                                                              :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+
+
+"Rainy_Day_0": "Are you going out today? Me too!$h",
+"Rainy_Day_1": "The rain is so comforting. I could listen to it all day.$h",
+"Rainy_Day_2": "I always find that the day after a nice rain is just as refreshing as the rainy day itself. $h",
+"Rainy_Day_3": "Did you know that the rain is actually good for you? It can help you sleep better and make you feel more relaxed.$h",
+"Rainy_Day_4": "Light tastes different when it's filtered through a rain cloud. I wish I could share that taste with you.$h",
+"Rainy_Day_5": "Do you hear that? The plants are singing. They really needed this.$h",
+"Indoor_Day_0": "...$0",
+"Indoor_Day_1": "...$0",
+"Indoor_Day_2": "...$0",
+"Indoor_Day_3": "...$0",
+"Indoor_Day_4": "...$0",
+"Indoor_Day_5": "...$0",
+"Rainy_Night_0": "...$0",
+"Rainy_Night_1": "...$0",
+"Rainy_Night_2": "...$0",
+"Rainy_Night_3": "...$0",
+"Rainy_Night_4": "...$0",
+"Rainy_Night_5": "...$0",
+"Indoor_Night_0": "...$0",
+"Indoor_Night_1": "...$0",
+"Indoor_Night_2": "...$0",
+"Indoor_Night_3": "...$0",
+"Indoor_Night_4": "...$0",
+"Indoor_Night_5": "...$0",
+"funLeave_{{ModId}}_Antoine": "...$0",
+"funReturn_{{ModId}}_Antoine": "...$0",
+"Outdoor_{{ModId}}_Antoine": "...$0",
+"Outdoor_0": "...$0",
+"Outdoor_1": "...$0",
+"Outdoor_2": "...$0",
+"Outdoor_3": "...$0",
+"Outdoor_4": "...$0",
+"spouseRoom_{{ModId}}_Antoine": "...$0",
+"OneKid_0": "...$0",
+"OneKid_1": "...$0",
+"OneKid_2": "...$0",
+"OneKid_3": "...$0",
+"OneKid_4": "...$0",
+"TwoKids_0": "...$0",
+"TwoKids_1": "...$0",
+"TwoKids_2": "...$0",
+"TwoKids_3": "...$0",
+"TwoKids_4": "...$0",
+"Good_0": "...$0",
+"Good_1": "...$0",
+"Good_2": "...$0",
+"Good_3": "...$0",
+"Good_4": "...$0",
+"Good_5": "...$0",
+"Good_6": "...$0",
+"Good_7": "...$0",
+"Good_8": "...$0",
+"Good_9": "...$0",
+"Neutral_0": "...$0",
+"Neutral_1": "...$0",
+"Neutral_2": "...$0",
+"Neutral_3": "...$0",
+"Neutral_4": "...$0",
+"Neutral_5": "...$0",
+"Neutral_6": "...$0",
+"Neutral_7": "...$0",
+"Neutral_8": "...$0",
+"Neutral_9": "...$0",
+"Bad_0": "...$0",
+"Bad_1": "...$0",
+"Bad_2": "...$0",
+"Bad_3": "...$0",
+"Bad_4": "...$0",
+"Bad_5": "...$0",
+"Bad_6": "...$0",
+"Bad_7": "...$0",
+"Bad_8": "...$0",
+"Bad_9": "...$0",
 
 
 
-
-
-
-
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                                                            :: */
-/* ::     d888888o. 8888888 8888888888 8 888888888o.    8 8888 b.             8     ,o888888o.      d888888o.    :: */
-/* ::   .`8888:' `88.     8 8888       8 8888    `88.   8 8888 888o.          8    8888     `88.  .`8888:' `88.  :: */
-/* ::   8.`8888.   Y8     8 8888       8 8888     `88   8 8888 Y88888o.       8 ,8 8888       `8. 8.`8888.   Y8  :: */
-/* ::   `8.`8888.         8 8888       8 8888     ,88   8 8888 .`Y888888o.    8 88 8888           `8.`8888.      :: */
-/* ::    `8.`8888.        8 8888       8 8888.   ,88'   8 8888 8o. `Y888888o. 8 88 8888            `8.`8888.     :: */
-/* ::     `8.`8888.       8 8888       8 888888888P'    8 8888 8`Y8o. `Y88888o8 88 8888             `8.`8888.    :: */
-/* ::      `8.`8888.      8 8888       8 8888`8b        8 8888 8   `Y8o. `Y8888 88 8888   8888888    `8.`8888.   :: */
-/* ::  8b   `8.`8888.     8 8888       8 8888 `8b.      8 8888 8      `Y8o. `Y8 `8 8888       .8'8b   `8.`8888.  :: */
-/* ::  `8b.  ;8.`8888     8 8888       8 8888   `8b.    8 8888 8         `Y8o.`    8888     ,88' `8b.  ;8.`8888  :: */
-/* ::   `Y8888P ,88P'     8 8888       8 8888     `88.  8 8888 8            `Yo     `8888888P'    `Y8888P ,88P'  :: */
-/* ::                                                                                                            :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                                  :: */
+/* ::  .dP"Y8 888888 88""Yb 88 88b 88  dP""b8 .dP"Y8   :: */
+/* ::  `Ybo."   88   88__dP 88 88Yb88 dP   `" `Ybo."   :: */
+/* ::  o.`Y8b   88   88"Yb  88 88 Y88 Yb  "88 o.`Y8b   :: */
+/* ::  8bodP'   88   88  Yb 88 88  Y8  YboodP 8bodP'   :: */
+/* ::                                                  :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 /*/ Animation /*/
 	//TOO BUSY FOR FARMER      //These are intended to be used with Antoine's casting and Headphones animations to indicate to the farmer that he either can't talk right now, or doesn't notice them.
 
 	//Antoine Busy Casting
-	"AnBusyCasting.01": "%Antoine smiles at you, but is too busy casting to speak to you right now.",
+	"Antoine.BusyCasting.01": "%Antoine smiles at you, but is too busy casting to speak to you right now.",
 
 	//Antoine Listing to Headphones
-	"AnGoodTunes.01": "%Antoine is too engrossed in his music to notice you.",
+	"Antoine.GoodTunes.01": "%Antoine is too engrossed in his music to notice you.",
 
 
 /*/ Maps /*/
 	//LAPTOP COMMENTARY      //These would be in his laptop animation if you interact with Antoine while he's typing.
 	//Cat Video "Flower Crashes Cat" - https://www.youtube.com/watch?v=ncNwe13rguE
-	"AnAtlaptop.01": "Have you seen this video, @? A girl is singing a folk song to her cat, then puts a flower put on top of it's head and gets a look of existential dread, like it's seeing straight into the heart of the universe. It's pretty funny.$h",
+	"Antoine.Atlaptop.01": "Have you seen this video, @? A girl is singing a folk song to her cat, then puts a flower put on top of it's head and gets a look of existential dread, like it's seeing straight into the heart of the universe. It's pretty funny.$h",
 
 
 //READING A BOOK        //When Antoine is chilling out and reading a book he would love to tell the Farmer all about what he's reading.
 	//Generic Book
-	"AnReadBook.01": "Hi, @. I'm sort of absorbed in this book here. I hope you don't mind.$0",
-    "AnReadBook.02": "I'm reading a really interesting book on echolocation. Ha ha, it certainly explains why bats seem to speak so loudly.$h",
-    "AnReadBook.03": "This book? It's about the pros and cons of syllabaries vs. alphabets vs. glyphs. Alphabets are quite limiting with roughly only 100 symbols to convey language, but syllabaries can have several hundreds more. It'd be quite intimidating to learn them all.$0",
-    "AnReadBook.04": "Hmm? Oh, this is less of a book and more of an essay about why bicycles just never caught on in Stardew Valley.$0",
+	"Antoine.ReadBook.01": "Hi, @. I'm sort of absorbed in this book here. I hope you don't mind.$0",
+    "Antoine.ReadBook.02": "I'm reading a really interesting book on echolocation. Ha ha, it certainly explains why bats seem to speak so loudly.$h",
+    "Antoine.ReadBook.03": "This book? It's about the pros and cons of syllabaries vs. alphabets vs. glyphs. Alphabets are quite limiting with roughly only 100 symbols to convey language, but syllabaries can have several hundreds more. It'd be quite intimidating to learn them all.$0",
+    "Antoine.ReadBook.04": "Hmm? Oh, this is less of a book and more of an essay about why bicycles just never caught on in Stardew Valley.$0",
 
     //Elliott's Book
-    "AnReadElBook.01": "Oh, I'm reading %book. Elliott should be very proud of it, he's an exceptional writer.$0",
+    "Antoine.ReadElBook.01": "Oh, I'm reading %book. Elliott should be very proud of it, he's an exceptional writer.$0",
 
     //Rodney's Book
-    "AnReadRBookDwarf.01": "Ah, this is the book Rodney wrote about, ah, I probably shouldn't say their name. I don't think they know it's about them anyway.$0",
+    "Antoine.ReadRBookDwarf.01": "Ah, this is the book Rodney wrote about, ah, I probably shouldn't say their name. I don't think they know it's about them anyway.$0",
 
-    "AnReadRBookShadow.01": "This book is very ... well Rodney certainly has an interesting take on shadow folks.$h",
+    "Antoine.ReadRBookShadow.01": "This book is very ... well Rodney certainly has an interesting take on shadow folks.$h",
 
 
 //TOO DAMN COLD
 
 	//Antoine Busy Casting - Winter Edition
-	"AnBusyCastingBrr.01": "%Antoine ignores you because he's is too busy casting to speak to you right now.",
+	"Antoine.BusyCastingBrr.01": "%Antoine ignores you because he's is too busy casting to speak to you right now.",
 	
 	//Antoine Listing to Headphones - Winter Edition
-	"AnGoodTunesBrr.01": "%Antoine looks sort of miserable and definitely doesn't want to talk right now.",
+	"Antoine.GoodTunesBrr.01": "%Antoine looks sort of miserable and definitely doesn't want to talk right now.",
 
 
 
@@ -1056,173 +1167,476 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
 
 
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* ::                                                                                                                  :: */
-/* ::  8 8888         8 8888888888 8888888 8888888888 8888888 8888888888 8 8888888888   8 888888888o.     d888888o.    :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 8888    `88.  .`8888:' `88.  :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 8888     `88  8.`8888.   Y8  :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 8888     ,88  `8.`8888.      :: */
-/* ::  8 8888         8 888888888888     8 8888             8 8888       8 888888888888 8 8888.   ,88'   `8.`8888.     :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 888888888P'     `8.`8888.    :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 8888`8b          `8.`8888.   :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 8888 `8b.    8b   `8.`8888.  :: */
-/* ::  8 8888         8 8888             8 8888             8 8888       8 8888         8 8888   `8b.  `8b.  ;8.`8888  :: */
-/* ::  8 888888888888 8 888888888888     8 8888             8 8888       8 888888888888 8 8888     `88. `Y8888P ,88P'  :: */
-/* ::                                                                                                                  :: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
-/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* ::                                                    :: */
+/* ::  88     888888 888888 888888 888888 88""Yb .dP"Y8  :: */
+/* ::  88     88__     88     88   88__   88__dP `Ybo."  :: */
+/* ::  88  .o 88""     88     88   88""   88"Yb  o.`Y8b  :: */
+/* ::  88ood8 888888   88     88   888888 88  Yb 8bodP'  :: */
+/* ::                                                    :: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
+/* :::::::::::::::::::::::::::::::::::::::::::::::::::::::: */
 
 
 /*/----------Fun----------/*/
     
-    "AntoineMail.First": "Dear @,^^I know it may seem a little silly to send you a letter when we live in the same town, but I've always wanted to do this. I understand it's a little bit silly to send these when more instant forms of communication exist. There's just something so cool about it, and you live across town so it's sort of like having a penpal that I can see the face of every day! I hope you don't mind, and you don't have to reply if you don't want to. Or you can just send me a text or an email instead of a physical letter. Or come and talk to me. ^^Sincerely, Antoine[letterbg 2][#]My First Letter",
+    "Antoine.Mail.First": "Dear @,^^I know it may seem a little silly to send you a letter when we live in the same town, but I've always wanted to do this. I understand it's a little bit silly to send these when more instant forms of communication exist. There's just something so cool about it, and you live across town so it's sort of like having a penpal that I can see the face of every day! I hope you don't mind, and you don't have to reply if you don't want to. Or you can just send me a text or an email instead of a physical letter. Or come and talk to me. ^^Sincerely, Antoine[letterbg 2][#]My First Letter",
 
-    "AntoineMail.BackHome": "Dear @,^^I was thinking about my old home today and I felt a little melancholy. I love it here, but there are so many things I miss about where I came into being. I was there for such a long time, and while everything now is new and exciting, sometimes I just want the comfort of how things used to be. Which is so strange because I was often quite sad.^^See, I was always enamored with humans. For as long as I can remember. I  spent so much time in human towns I practically lived in them. I couldn't really be seen, but sometimes a kid would spot me and wave. It was lonely. Knowing that I was a person like you, but not being able to touch or talk to one.^^My family didn't really understand, but I never expected them to. They were happy with how they were created. They liked people, and liked to help them, but nature was where they belonged. Not stone streets and wooden houses with fires inside cooking delicious smelling things. I'm so much happier now. I have friends, and wonderful conversations, and food is just so good. So why do I miss a place where I only pined for what I have now? It's so very strange.^^Sincerely, Antoine[letterbg 2][#]I don't know why I miss it.[letterbg 2][#]I don't know why I miss it.",
+    "Antoine.Mail.BackHome": "Dear @,^^I was thinking about my old home today and I felt a little melancholy. I love it here, but there are so many things I miss about where I came into being. I was there for such a long time, and while everything now is new and exciting, sometimes I just want the comfort of how things used to be. Which is so strange because I was often quite sad.^^See, I was always enamored with humans. For as long as I can remember. I  spent so much time in human towns I practically lived in them. I couldn't really be seen, but sometimes a kid would spot me and wave. It was lonely. Knowing that I was a person like you, but not being able to touch or talk to one.^^My family didn't really understand, but I never expected them to. They were happy with how they were created. They liked people, and liked to help them, but nature was where they belonged. Not stone streets and wooden houses with fires inside cooking delicious smelling things. I'm so much happier now. I have friends, and wonderful conversations, and food is just so good. So why do I miss a place where I only pined for what I have now? It's so very strange.^^Sincerely, Antoine[letterbg 2][#]I don't know why I miss it.[letterbg 2][#]I don't know why I miss it.",
 
-    "AntoineMail.SoConfused": "Dear @,^^I was out with Juliet today and Haley asked me to model for some pictures! It was really fun, and she was very nice to me. She was complimenting my hair, and my form, and she thought my eyes were very nice too. It felt good getting those kinds of compliments, but Juliet kept thinking they were funny. I like her laugh, so I didn't mind, but it really frustrated Haley.^^When Haley got some close-up pictures of me she fixed up my hair and took her time helping me to take off my coat so that I could move better to do other kinds of poses. She was very friendly, and she seemed to really enjoy the pictures she took of me, but Juliet just laughed the whole time. Then, when Haley asked if I wanted to eat something with her Juliet said she was barking up the wrong tree?^^I don't get it. I like getting to sample new foods, and Haley seemed like she would have a lot of fun things to talk about. Since I was spending time with Juliet today I left with her when she wanted to leave and Haley seemed unhappy about something and went home. Later I asked Juliet  why she was laughing, and said those things to Haley. She told me that I shouldn't confuse the poor girl, but I'm the one that's confused. I hope Haley isn't too upset, but I'm really excited to see the pictures later!^^Sincerely, Antoine[letterbg 2][#]I'm really confused.",
+    "Antoine.Mail.SoConfused": "Dear @,^^I was out with Juliet today and Haley asked me to model for some pictures! It was really fun, and she was very nice to me. She was complimenting my hair, and my form, and she thought my eyes were very nice too. It felt good getting those kinds of compliments, but Juliet kept thinking they were funny. I like her laugh, so I didn't mind, but it really frustrated Haley.^^When Haley got some close-up pictures of me she fixed up my hair and took her time helping me to take off my coat so that I could move better to do other kinds of poses. She was very friendly, and she seemed to really enjoy the pictures she took of me, but Juliet just laughed the whole time. Then, when Haley asked if I wanted to eat something with her Juliet said she was barking up the wrong tree?^^I don't get it. I like getting to sample new foods, and Haley seemed like she would have a lot of fun things to talk about. Since I was spending time with Juliet today I left with her when she wanted to leave and Haley seemed unhappy about something and went home. Later I asked Juliet  why she was laughing, and said those things to Haley. She told me that I shouldn't confuse the poor girl, but I'm the one that's confused. I hope Haley isn't too upset, but I'm really excited to see the pictures later!^^Sincerely, Antoine[letterbg 2][#]I'm really confused.",
 
-    "AntoineMail.NotEvenBerries": "Dear @,^^I heard Pierre say that strawberries are the only fruit that have their seeds on the outside, but that's not true! See, the outside of a strawberry is actually covered in a bunch of tiny dried fruits. The seeds are on the inside of those fruits. Pretty cool, huh?^^They aren't berries either. They're a part of the rose family. Tomatoes are a berry though. Eggplants too!^^Sincerely, Antoine[letterbg 2][#]Berry Fun Facts",
+    "Antoine.Mail.NotEvenBerries": "Dear @,^^I heard Pierre say that strawberries are the only fruit that have their seeds on the outside, but that's not true! See, the outside of a strawberry is actually covered in a bunch of tiny dried fruits. The seeds are on the inside of those fruits. Pretty cool, huh?^^They aren't berries either. They're a part of the rose family. Tomatoes are a berry though. Eggplants too!^^Sincerely, Antoine[letterbg 2][#]Berry Fun Facts",
 
-    "AntoineMail.Glasses": "Dear @,^^Jas asked me why I was wearing glasses if I didn't need them to see. Is that what glasses do? I had no idea! She was very informative about the specific function of glasses and it was so helpful. I just saw them in the river and thought they looked neat!^^Sincerely, Antoine[letterbg 2][#]My glasses. I can see without my glasses.",
+    "Antoine.Mail.Glasses": "Dear @,^^Jas asked me why I was wearing glasses if I didn't need them to see. Is that what glasses do? I had no idea! She was very informative about the specific function of glasses and it was so helpful. I just saw them in the river and thought they looked neat!^^Sincerely, Antoine[letterbg 2][#]My glasses. I can see without my glasses.",
 
-    "AntoineMail.Sunflowers": "Dear @,^^I woke up this morning to a hundred tiny voices singing to the sun. I always love it when sunflowers announce that summer is finally here. They have so much personality! Young sunflowers love watching the sun, and when they mature they always look off to the east together. ^^The head of the sunflower is a combination of a thousand tiny flowers. The petals are one of those flowers too, they just got out of their shell to say hello to the world!^^I really admire sunflowers. It took me way too long to do that for myself.^^Sincerely, Antoine[letterbg 2][#]The sunflowers are here!",
+    "Antoine.Mail.Sunflowers": "Dear @,^^I woke up this morning to a hundred tiny voices singing to the sun. I always love it when sunflowers announce that summer is finally here. They have so much personality! Young sunflowers love watching the sun, and when they mature they always look off to the east together. ^^The head of the sunflower is a combination of a thousand tiny flowers. The petals are one of those flowers too, they just got out of their shell to say hello to the world!^^I really admire sunflowers. It took me way too long to do that for myself.^^Sincerely, Antoine[letterbg 2][#]The sunflowers are here!",
 
-    "AntoineMail.Roses": "Dear @,^^Fairy roses have been around longer than even ancient fruit. They've seen the world grow to be so big, and they've never forgotten it. One fairy rose can live for a thousand years. The old ones always have such strange songs, really haunting, but lovely too. As sweet as how they smell. ^^Sometimes I know the songs so well I end up humming them when I'm around the young fairy roses. I wonder if that's like teaching them the old ways?^^Sincerely, Antoine[letterbg 2][#]Old Roses",
+    "Antoine.Mail.Roses": "Dear @,^^Fairy roses have been around longer than even ancient fruit. They've seen the world grow to be so big, and they've never forgotten it. One fairy rose can live for a thousand years. The old ones always have such strange songs, really haunting, but lovely too. As sweet as how they smell. ^^Sometimes I know the songs so well I end up humming them when I'm around the young fairy roses. I wonder if that's like teaching them the old ways?^^Sincerely, Antoine[letterbg 2][#]Old Roses",
 
-    "AntoineMail.LadyShiba": "Dear @, ^^Thanks a lot for helping that poor cat! I've been sneaking cheese to it whenever I can, but Jacob said that cheese isn't great for animals in large amounts. That seemed to be the only thing the poor kitty would take from me though, and even then only at a distance. Usually animals aren't afraid of me at all, so I hope it didn't have a really bad life before coming here.^^Sincerely, Antoine[letterbg 2][#]Stray No More",
+    "Antoine.Mail.LadyShiba": "Dear @, ^^Thanks a lot for helping that poor cat! I've been sneaking cheese to it whenever I can, but Jacob said that cheese isn't great for animals in large amounts. That seemed to be the only thing the poor kitty would take from me though, and even then only at a distance. Usually animals aren't afraid of me at all, so I hope it didn't have a really bad life before coming here.^^Sincerely, Antoine[letterbg 2][#]Stray No More",
 
-    "AntoineMail.Aideen": "Dear @, ^^I've seen Aideen spending a lot of time with Dr. Luis lately. Aideen is so smart and sweet natured, and Dr. Luis has a lot of energy and fun stories, I think they'll be really good friends soon! It's so great that Aideen is opening herself up to more friendship!^^Juliet says that Dr. Luis is Aideen's new bow. Do you think she meant that he wants to take Aideen to the caves with him? I'm not sure how she can be a bow, but then I can make tiny clouds rain over flowers, so I really can't be too judgemental.^^Sincerely, Antoine[letterbg 2][#]I'm so happy!",
+    "Antoine.Mail.Aideen": "Dear @, ^^I've seen Aideen spending a lot of time with Dr. Luis lately. Aideen is so smart and sweet natured, and Dr. Luis has a lot of energy and fun stories, I think they'll be really good friends soon! It's so great that Aideen is opening herself up to more friendship!^^Juliet says that Dr. Luis is Aideen's new bow. Do you think she meant that he wants to take Aideen to the caves with him? I'm not sure how she can be a bow, but then I can make tiny clouds rain over flowers, so I really can't be too judgemental.^^Sincerely, Antoine[letterbg 2][#]I'm so happy!",
 
-    "AntoineMail.Shane.NoRelationship": "Dear @, ^^Shane seems to have a lot more energy lately, and he's been smiling a lot more too! Being friends with you has helped him a lot, and it makes me so happy to see him feeling better. You really do a lot around here, you know? You make such a positive difference in everyone's lives. I hope you know that they all really appreciate it. You should hear them talk about you when you're not around!^^If there's anything I can do for you, just tell me. It's a lot of work supporting others if you don't have someone to support you too. I want to help you whenever I can.^^Sincerely, Antoine[letterbg 2][#]Shane looks so much better!",
+    "Antoine.Mail.Shane.NoRelationship": "Dear @, ^^Shane seems to have a lot more energy lately, and he's been smiling a lot more too! Being friends with you has helped him a lot, and it makes me so happy to see him feeling better. You really do a lot around here, you know? You make such a positive difference in everyone's lives. I hope you know that they all really appreciate it. You should hear them talk about you when you're not around!^^If there's anything I can do for you, just tell me. It's a lot of work supporting others if you don't have someone to support you too. I want to help you whenever I can.^^Sincerely, Antoine[letterbg 2][#]Shane looks so much better!",
 
-    "AntoineMail.Shane.HasRelationship": "Dear @,^^Shane seems to have a lot more energy lately, and he's been smiling a lot more too! Being friends with you has helped him a lot, and it makes me so happy to see him feeling better. You really do a lot around here, you know? You make such a positive difference in everyone's lives. I hope you know that they all really appreciate it. You should hear them talk about you when you're not around!^^If there's anything I can do for you, just tell me. It's a lot of work supporting others, and I'm happy you have someone who supports you too. I want to help them and you whenever I can.^^Sincerely, Antoine[letterbg 2][#]Shane looks so much better!",
+    "Antoine.Mail.Shane.HasRelationship": "Dear @,^^Shane seems to have a lot more energy lately, and he's been smiling a lot more too! Being friends with you has helped him a lot, and it makes me so happy to see him feeling better. You really do a lot around here, you know? You make such a positive difference in everyone's lives. I hope you know that they all really appreciate it. You should hear them talk about you when you're not around!^^If there's anything I can do for you, just tell me. It's a lot of work supporting others, and I'm happy you have someone who supports you too. I want to help them and you whenever I can.^^Sincerely, Antoine[letterbg 2][#]Shane looks so much better!",
 
-    "AntoineMail.Cordial": "Dear @,^^I had a dream last night that I was drifting among the trees of my old home and there was this scent that was pulling me through the branches. It was fresh and biting, but had the faintest notes of sweetness. Then I could hear the humming of old women and the clinking of glass. I glided slowly towards the sound, the smell getting stronger as I went, and then I saw it. Little old ladies in big hats and flower print dresses giggling and pouring this delicious looking drink into their glasses. When I woke up I remembered where I knew that taste from! ^^They used to make all sorts of drinks and desserts and foods with this citrus fruit in it. I remember wanting to taste those things so badly, but discerning flavor wasn't really something I was blessed with before. Now that I can, I'm so excited that I'll finally get to savor those delicious smelling things!^^The first thing I did this morning was try and make that drink those old ladies were having. I didn't really succeed, but I think it's because the fruit I remember doesn't grow here. Shame.^^Sincerely, Antoine[letterbg 2][#]Memories of citrus.",
+    "Antoine.Mail.Cordial": "Dear @,^^I had a dream last night that I was drifting among the trees of my old home and there was this scent that was pulling me through the branches. It was fresh and biting, but had the faintest notes of sweetness. Then I could hear the humming of old women and the clinking of glass. I glided slowly towards the sound, the smell getting stronger as I went, and then I saw it. Little old ladies in big hats and flower print dresses giggling and pouring this delicious looking drink into their glasses. When I woke up I remembered where I knew that taste from! ^^They used to make all sorts of drinks and desserts and foods with this citrus fruit in it. I remember wanting to taste those things so badly, but discerning flavor wasn't really something I was blessed with before. Now that I can, I'm so excited that I'll finally get to savor those delicious smelling things!^^The first thing I did this morning was try and make that drink those old ladies were having. I didn't really succeed, but I think it's because the fruit I remember doesn't grow here. Shame.^^Sincerely, Antoine[letterbg 2][#]Memories of citrus.",
 
-    "AntoineMail.SouthernTea": "Dear @,^^I was talking with Aideen and something she said reminded me of another nice drink from my old home. The tea leaves were different there, and the tea they made was brown instead of green. I also usually saw people drinking it with ice cubes inside! Of course they also added a bit of citrus too.^^Aideen and I spent a lot of time seeing if we could recreate it here. Turns out green tea and black tea are really different. ^^Sincerely, Antoine^^^P.S. Aideen said she would get me some black tea leaves so I can recreate it properly. I think I might have to be selfish and keep them all for myself though. Sorry![letterbg 2][#]Have you tried tea with ice before?",
+    "Antoine.Mail.SouthernTea": "Dear @,^^I was talking with Aideen and something she said reminded me of another nice drink from my old home. The tea leaves were different there, and the tea they made was brown instead of green. I also usually saw people drinking it with ice cubes inside! Of course they also added a bit of citrus too.^^Aideen and I spent a lot of time seeing if we could recreate it here. Turns out green tea and black tea are really different. ^^Sincerely, Antoine^^^P.S. Aideen said she would get me some black tea leaves so I can recreate it properly. I think I might have to be selfish and keep them all for myself though. Sorry![letterbg 2][#]Have you tried tea with ice before?",
 
     //Note: This only gets sent in winter.
-    "AntoineMail.Cold": "Dear @,^^It's too cold! I've been practically living inside my fireplace and my bones are still chilly. My throat was all scratchy too! I wanted to mix up a hot drink, but I was out of chocolate powder. I did have some things for tea though that Aideen gave me. So I mixed them together and I couldn't really taste it. I think my nose is too stuffy. ^^Sincerely, Antoine[letterbg 2][#]TOO COLD",
+    "Antoine.Mail.Cold": "Dear @,^^It's too cold! I've been practically living inside my fireplace and my bones are still chilly. My throat was all scratchy too! I wanted to mix up a hot drink, but I was out of chocolate powder. I did have some things for tea though that Aideen gave me. So I mixed them together and I couldn't really taste it. I think my nose is too stuffy. ^^Sincerely, Antoine[letterbg 2][#]TOO COLD",
 
 
     /*/----------Event Specific----------/*/
 
-    "AntoineMail.ThanksNote": "Dear @, ^^Thanks so much for helping me talk to my family! It went really well, and I'm so happy. If not for you I never would have taken that chance! So thank you! I wanted to give you something nice too. I hope you really enjoy it. The next time you come and see me, if my family is there, you can say hi! I made sure they understand you're a very good human.^^Sincerely, Antoine[letterbg 2][#]Thank you!",
+    "Antoine.Mail.ThanksNote": "Dear @, ^^Thanks so much for helping me talk to my family! It went really well, and I'm so happy. If not for you I never would have taken that chance! So thank you! I wanted to give you something nice too. I hope you really enjoy it. The next time you come and see me, if my family is there, you can say hi! I made sure they understand you're a very good human.^^Sincerely, Antoine[letterbg 2][#]Thank you!",
 
 
 
     /*/----------Recipe Sharing Letters----------/*/
 
     //Conditions: Gifted Food Item 
-    "Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for your tasty gift! It really inspired me to try and cook the dish myself. I messed it up so I'm too embarassed to send it though.^ If you give me another one I won't chicken out this time though and definitely send you one back. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine[letterbg 2][#]The beginning of our cooking adventure!",
+    "Antoine.Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for your tasty gift! It really inspired me to try and cook the dish myself. I messed it up so I'm too embarassed to send it though.^ If you give me another one I won't chicken out this time though and definitely send you one back. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine[letterbg 2][#]The beginning of our cooking adventure!",
 
     //Conditions: Gifted Omelet
-    "Mail.RecipeOmelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Omelet",
+    "Antoine.Mail.RecipeOmelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Omelet",
 
     //Conditions: Gifted Parsnip Soup
-    "Mail.RecipeParsnipSoup": "Dear @, ^^ Caroline's parsnip soup is just the best. She really puts a lot of love in it. ^ And by love I mean salt, ha ha. I didn't use quite as much. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Parsnip Soup",
+    "Antoine.Mail.RecipeParsnipSoup": "Dear @, ^^ Caroline's parsnip soup is just the best. She really puts a lot of love in it. ^ And by love I mean salt, ha ha. I didn't use quite as much. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Parsnip Soup",
 
     //Conditions: Gifted Vegetable Medley
-    "Mail.RecipeVegetableMedley": "Dear @, ^^ I'm in love with the vegetable combination that Caroline puts in her vegetable medley! I had to make extra just to have some again later. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Vegetable Medley",
+    "Antoine.Mail.RecipeVegetableMedley": "Dear @, ^^ I'm in love with the vegetable combination that Caroline puts in her vegetable medley! I had to make extra just to have some again later. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Vegetable Medley",
 
     //Conditions: Gifted Algae Soup
-    "Mail.RecipeAlgaeSoup": "Dear @, ^^ You know, some people really get put off by algae's odd texture. I really like it though, and Clint was really clever with it. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Algae Soup",
+    "Antoine.Mail.RecipeAlgaeSoup": "Dear @, ^^ You know, some people really get put off by algae's odd texture. I really like it though, and Clint was really clever with it. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Algae Soup",
 
     //Conditions: Gifted Bean Hotpot
-    "Mail.RecipeBeanHotpot": "Dear @, ^^ Something about Clint's bean hotpot really draws you in. I got a lot of extra energy after trying it too. ^ Who would have thought Clint would have it in him, huh? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Bean Hotpot",
+    "Antoine.Mail.RecipeBeanHotpot": "Dear @, ^^ Something about Clint's bean hotpot really draws you in. I got a lot of extra energy after trying it too. ^ Who would have thought Clint would have it in him, huh? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Bean Hotpot",
 
     //Conditions: Gifted Roots Platter
-    "Mail.RecipeRootsPlatter": "Dear @, ^^ I guess spending so much time in the mines really gave you some inspiration. ^ It was super tasty, and I'm definitely going to make some again later! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Roots Platter",
+    "Antoine.Mail.RecipeRootsPlatter": "Dear @, ^^ I guess spending so much time in the mines really gave you some inspiration. ^ It was super tasty, and I'm definitely going to make some again later! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Roots Platter",
 
     //Conditions: Gifted Squid Ink Ravioli
-    "Mail.RecipeSquidInkRavioli": "Dear @, ^^ This is such a clever use of squid ink! But I didn't have any from squid so I just used regular ink. ^ Ha ha, just kidding. I wish I could have seen your face. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Squid Ink Ravioli",
+    "Antoine.Mail.RecipeSquidInkRavioli": "Dear @, ^^ This is such a clever use of squid ink! But I didn't have any from squid so I just used regular ink. ^ Ha ha, just kidding. I wish I could have seen your face. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Squid Ink Ravioli",
 
     //Conditions: Gifted Fried Mushroom
-    "Mail.RecipeFriedMushroom": "Dear @, ^^ Demetrius' fried mushrooms are so tasty. I never would have thought to cook them this way! ^ I managed to pick the mushrooms super fresh too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Mushroom",
+    "Antoine.Mail.RecipeFriedMushroom": "Dear @, ^^ Demetrius' fried mushrooms are so tasty. I never would have thought to cook them this way! ^ I managed to pick the mushrooms super fresh too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Mushroom",
 
     //Conditions: Gifted Autumn's Bounty
-    "Mail.RecipeAutumnsBounty": "Dear @, ^^ YAMS! I used so many of them in my version of this dish! Demetrius really knows his stuff. ^ Don't worry, there isn't nearly as much yam in yours, ha ha. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Autumn's Bounty",
+    "Antoine.Mail.RecipeAutumnsBounty": "Dear @, ^^ YAMS! I used so many of them in my version of this dish! Demetrius really knows his stuff. ^ Don't worry, there isn't nearly as much yam in yours, ha ha. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Autumn's Bounty",
 
     //Conditions: Gifted Ginger Ale
-    "Mail.RecipeGingerAle": "Dear @, ^^ Wow, a dwarf recipe. This must be pretty special. It tastes good too. ^ What do you mean it cost you 1,000g?! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ginger Ale",
+    "Antoine.Mail.RecipeGingerAle": "Dear @, ^^ Wow, a dwarf recipe. This must be pretty special. It tastes good too. ^ What do you mean it cost you 1,000g?! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ginger Ale",
 
     //Conditions: Gifted Salad
-    "Mail.RecipeSalad": "Dear @, ^^ Ah, Emily said she sent you her salad recipe. I'm a big fan of it too. Ha ha, no surprise there, huh? ^ I tried a different dressing than what she tends to use. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salad",
+    "Antoine.Mail.RecipeSalad": "Dear @, ^^ Ah, Emily said she sent you her salad recipe. I'm a big fan of it too. Ha ha, no surprise there, huh? ^ I tried a different dressing than what she tends to use. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salad",
 
     //Conditions: Gifted Red Plate
-    "Mail.RedPlate": "Dear @, ^^ This dish is pretty good for you. Just, uh, don't eat too much of it all at once. ^ Everyone digests things … a little different. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Red Plate",
+    "Antoine.Mail.RedPlate": "Dear @, ^^ This dish is pretty good for you. Just, uh, don't eat too much of it all at once. ^ Everyone digests things ... a little different. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Red Plate",
 
     //Conditions: Gifted Cookie
-    "Mail.Cookie": "Dear @, ^^ Evelyn gave you her cookie recipe?! They so good! ^ I've sort of been eating them non-stop. I managed to save you these though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Cookie",
+    "Antoine.Mail.Cookie": "Dear @, ^^ Evelyn gave you her cookie recipe?! They so good! ^ I've sort of been eating them non-stop. I managed to save you these though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Cookie",
 
     //Conditions: Gifted Rice Pudding
-    "Mail.RicePudding": "Dear @, ^^ I'm not so sure how I feel about the sweetness of this one. Maybe I didn't follow the recipe right? ^ At least it's fun to eat though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Rice Pudding",
+    "Antoine.Mail.RicePudding": "Dear @, ^^ I'm not so sure how I feel about the sweetness of this one. Maybe I didn't follow the recipe right? ^ At least it's fun to eat though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Rice Pudding",
 
     //Conditions: Gifted Farmer's Lunch
-    "Mail.FarmersLunch": "Dear @, ^^ Any good farmer needs a good farmer's lunch. This is such a clever way of jazzing up an omelet. ^ The Queen would be proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Farmer's Lunch",
+    "Antoine.Mail.FarmersLunch": "Dear @, ^^ Any good farmer needs a good farmer's lunch. This is such a clever way of jazzing up an omelet. ^ The Queen would be proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Farmer's Lunch",
 
     //Conditions: Gifted Seafoam Pudding
-    "Mail.SeafoamPudding": "Dear @, ^^ Well this one was certainly interesting. I guess when you're out at sea you really have to work with what you've got. ^ Sorry if this one is a bit … thick. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Seafoam Pudding",
+    "Antoine.Mail.SeafoamPudding": "Dear @, ^^ Well this one was certainly interesting. I guess when you're out at sea you really have to work with what you've got. ^ Sorry if this one is a bit ... thick. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Seafoam Pudding",
 
     //Conditions: Gifted Dish O' The Sea
-    "Mail.DishOTheSea": "Dear @, ^^ Fish and hashbrowns were not a combination I'd considered before, but it really works! ^ I'm not sure how you're supposed to keep it from getting soggy though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Dish O' The Sea",
+    "Antoine.Mail.DishOTheSea": "Dear @, ^^ Fish and hashbrowns were not a combination I'd considered before, but it really works! ^ I'm not sure how you're supposed to keep it from getting soggy though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Dish O' The Sea",
 
     //Conditions: Gifted Survival Burger
-    "Mail.SurvivalBurger": "Dear @, ^^ Ha ha, I'm not sure I could call this one a burger, but it's definitely a tasty sandwich! ^ I can see how it might want you to go out and find more to eat though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Survival Burger",
+    "Antoine.Mail.SurvivalBurger": "Dear @, ^^ Ha ha, I'm not sure I could call this one a burger, but it's definitely a tasty sandwich! ^ I can see how it might want you to go out and find more to eat though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Survival Burger",
 
     //Conditions: Gifted Fried Eel
-    "Mail.FriedEel": "Dear @, ^^ Evelyn isn't the only chef in the family! This fried eel was a little bit greasy but great! ^ I tried to soak some of the extra grease off with a paper towel. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Eel",
+    "Antoine.Mail.FriedEel": "Dear @, ^^ Evelyn isn't the only chef in the family! This fried eel was a little bit greasy but great! ^ I tried to soak some of the extra grease off with a paper towel. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Eel",
 
     //Conditions: Gifted Spicy Eel
-    "Mail.SpicyEel": "Dear @, ^^ This one has some kick to it! It really puts a fire in your belly. ^ Just be careful not to get too much fire down there. It has to come out sometime. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Spicy Eel",
+    "Antoine.Mail.SpicyEel": "Dear @, ^^ This one has some kick to it! It really puts a fire in your belly. ^ Just be careful not to get too much fire down there. It has to come out sometime. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Spicy Eel",
 
     //Conditions: Gifted Tropical Curry
-    "Mail.TropicalCurry": "Dear @, ^^ The pineapple bowl is such an interesting touch, but I'm not sure how it really enhances the curry. ^ Hot pepper and coconut are also a bit … I'm sorry you paid how much for this? ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Tropical Curry",
+    "Antoine.Mail.TropicalCurry": "Dear @, ^^ The pineapple bowl is such an interesting touch, but I'm not sure how it really enhances the curry. ^ Hot pepper and coconut are also a bit ... I'm sorry you paid how much for this? ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Tropical Curry",
 
     //Conditions: Gifted Salmon Dinner
-    "Mail.SalmonDinner": "Dear @, ^^ Wow, Gus definitely knows what he's doing. This was the best salmon dish I've ever made. ^ I hope you'll agree. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salmon Dinner",
+    "Antoine.Mail.SalmonDinner": "Dear @, ^^ Wow, Gus definitely knows what he's doing. This was the best salmon dish I've ever made. ^ I hope you'll agree. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salmon Dinner",
 
     //Conditions: Gifted Cranberry Sauce
-    "Mail.CranberrySauce": "Dear @, ^^ I guess the only way some people can eat cranberries is if you cook them with a lot of sugar. ^ I don't really mind the bitterness myself, but having it sweet is nice sometimes too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Cranberry Sauce",  
+    "Antoine.Mail.CranberrySauce": "Dear @, ^^ I guess the only way some people can eat cranberries is if you cook them with a lot of sugar. ^ I don't really mind the bitterness myself, but having it sweet is nice sometimes too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Cranberry Sauce",  
 
     //Conditions: Gifted Triple Shot Espresso
-    "Mail.TripleShotEspresso": "Dear @, ^^ This was so strong! I've been shaking all morning! I don't like it! ^ Here, you can just have all of it. I hope it was worth the money. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Triple Shot Espresso",
+    "Antoine.Mail.TripleShotEspresso": "Dear @, ^^ This was so strong! I've been shaking all morning! I don't like it! ^ Here, you can just have all of it. I hope it was worth the money. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Triple Shot Espresso",
 
     //Conditions: Gifted Banana Pudding
-    "Mail.BananaPudding": "Dear @, ^^ You got this recipe from a mysterious bird for a bunch of bone fragments? ^ Well it's definitely tasty! So it was worth it! I added little vanilla cookies to mine. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Banana Pudding",
+    "Antoine.Mail.BananaPudding": "Dear @, ^^ You got this recipe from a mysterious bird for a bunch of bone fragments? ^ Well it's definitely tasty! So it was worth it! I added little vanilla cookies to mine. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Banana Pudding",
 
     //Conditions: Gifted Fried Calamari
-    "Mail.FriedCalamari": "Dear @, ^^ Jodi's fried calamari is really chewy. It's definitely a whole experience. ^ I hope it's one you enjoy. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Calamari",
+    "Antoine.Mail.FriedCalamari": "Dear @, ^^ Jodi's fried calamari is really chewy. It's definitely a whole experience. ^ I hope it's one you enjoy. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Calamari",
 
     //Conditions: Gifted Ice Cream
-    "Mail.IceCream": "Dear @, ^^ I've never made ice cream before, I didn't realize it was so simple! ^ It's a little cold for my liking, but on a really hot day I guess it'd be nice! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ice Cream",
+    "Antoine.Mail.IceCream": "Dear @, ^^ I've never made ice cream before, I didn't realize it was so simple! ^ It's a little cold for my liking, but on a really hot day I guess it'd be nice! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ice Cream",
 
     //Conditions: Gifted Crispy Bass
-    "Mail.CrispyBass": "Dear @, ^^ Kent is full of surprises. One of them being he knows how to cook a mean bass dish. ^ I managed to get it extra crispy too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Crispy Bass",
+    "Antoine.Mail.CrispyBass": "Dear @, ^^ Kent is full of surprises. One of them being he knows how to cook a mean bass dish. ^ I managed to get it extra crispy too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Crispy Bass",
 
     //Conditions: Gifted Super Meal
-    "Mail.SuperMeal": "Dear @, ^^ This one definitely gives you a lot of energy! I guess Kent really needed that before. ^ I'm glad he can finally start to relax some. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Super Meal",
+    "Antoine.Mail.SuperMeal": "Dear @, ^^ This one definitely gives you a lot of energy! I guess Kent really needed that before. ^ I'm glad he can finally start to relax some. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Super Meal",
 
     //Conditions: Gifted Poi
-    "Mail.Poi": "Dear @, ^^ Little Leo came up with this all by himself? It's sweeter than I expected. ^ He should be really proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Poi",
+    "Antoine.Mail.Poi": "Dear @, ^^ Little Leo came up with this all by himself? It's sweeter than I expected. ^ He should be really proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Poi",
 
     //Conditions: Gifted Mango Sticky Rice
-    "Mail.MangoStickyRice": "Dear @, ^^ This was a lot more complex than I expected from Leo, but it sure tastes good! ^ I think mango might just be one of my favorite fruits these days. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Mango Sticky Rice",
+    "Antoine.Mail.MangoStickyRice": "Dear @, ^^ This was a lot more complex than I expected from Leo, but it sure tastes good! ^ I think mango might just be one of my favorite fruits these days. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Mango Sticky Rice",
 
     //Conditions: Gifted Spaghetti
-    "Mail.Spaghetti": "Dear @, ^^ I didn't know Lewis could make a spaghetti that didn't come out of a jar. Good for him! ^Making the noodles was kind of hard, but I think they turned out well. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Spaghetti",
+    "Antoine.Mail.Spaghetti": "Dear @, ^^ I didn't know Lewis could make a spaghetti that didn't come out of a jar. Good for him! ^Making the noodles was kind of hard, but I think they turned out well. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Spaghetti",
 
     //Conditions: Gifted Eggplant Parmesan
-    "Mail.EggplantParmesan": "Dear @, ^^ So, I heard this was supposed to have cheese in it? With Lewis going to Marnie's Ranch all the time you'd think he'd have plenty of it. ^ I had to grow a large eggplant for this one, and Juliet wanted to take a bunch of pictures of it. She must have been so proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Eggplant Parmesan",
+    "Antoine.Mail.EggplantParmesan": "Dear @, ^^ So, I heard this was supposed to have cheese in it? With Lewis going to Marnie's Ranch all the time you'd think he'd have plenty of it. ^ I had to grow a large eggplant for this one, and Juliet wanted to take a bunch of pictures of it. She must have been so proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Eggplant Parmesan",
 
     //Conditions: Gifted Sashimi
-    "Mail.Sashimi": "Dear @, ^^ Raw fish is so good. Linus definitely knows what he's doing. ^ I managed to get these sliced extra thin. They're very delicate. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Sashimi",
+    "Antoine.Mail.Sashimi": "Dear @, ^^ Raw fish is so good. Linus definitely knows what he's doing. ^ I managed to get these sliced extra thin. They're very delicate. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Sashimi",
 
     //Conditions: Gifted Fish Taco
-    "Mail.FishTaco": "Dear @, ^^ When I told Abigail I was eating a fish taco she started laughing. I don't really understand why. Linus did a good job with the recipe. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fish Taco"
+    "Antoine.Mail.FishTaco": "Dear @, ^^ When I told Abigail I was eating a fish taco she started laughing. I don't really understand why. Linus did a good job with the recipe. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fish Taco"
 
 
 
+
+
+
+
+/*//Heart Event Ideas
+{0-Heart (Introduction)
+}
+
+{3-Heart
+Day - Sunny - Cindersnap Forest
+Actors: Antoine, Farmer, Junimo
+Dependency: Must have seen 0 Heart Introduction
+Note: This taking place in the secret woods is not important. The event can be relocated.
+
+Script
+//The farmer finds Antoine in the forest in the rain, the sounds of junimo meeps can be heard. Antoine walks off screen in the direction of the deep woods and the farmer follows him. Now inside the deep woods (avoid having the farmer walk through the entrance in case they haven't unlocked it yet) Antoine is gone and instead there are just junimo chatting together. 
+
+Red: "You should come home, we all miss you."
+Yellow: "Yeah! We miss you!"
+Green: "We miss your magic too! That magic is fun!"
+Red: "You'll come home and teach us magic, right?"
+Pink: "I don't want to go home yet. I still have a lot to learn!" 
+Red: "Why do you have to learn from humans?"
+Yellow: "Yeah!"
+Red: "Yeah!"
+Pink: "Because I'm … I just want to be with humans."
+Red: "But why? They can't see us."
+Green: "And they're messy." 
+Yellow: "And stinky!"
+Pink: "I don't think they're that bad, and some humans can see us."
+Red: "The wizard? They're weird."
+Yellow: "And they took one of our friends!"
+Green: "Yeah, it really scared them being in one place and then suddenly in a totally different one."
+Pink: "The wizard did send our friend back."
+Green: "Yeah, but they were never the same."
+Red: "Never the same!"
+Yellow: "Eeek! I think that human is looking at us!"
+Green: "It can see us! Run away!"
+Red: "Run away!"
+
+//The junimo run away. Pink remains behind to stare at the farmer.
+
+Pink: "Hi, @. Um, just wait right here. Okay?"
+
+//Pink leaves the screen, the sound of rustling bushes and magic place, then Antoine enters
+
+An: "Sorry, I was told that I shouldn't change in front of people.$0" 
+An: "Or was it get changed?$7"
+An: "Anyway, I guess you're probably confused. But ... we're friends, right, @? I can probably tell you.$h"
+An: "That was my family just now. I like to come here and visit them when I have the chance to.$0"
+An: "They followed me all the way here. They care about me a lot, but ... well they think I'm just here to learn new magic from humans.$0"
+An: "I, um, I'm not sure how to explain it. I just don't really think of myself as a junimo? I know I was created as one, but I can just feel deep down that I'm not.$u"
+An: "The druid in Turnabout was the only person willing to help me. I went to wizards and witches from all over and all of them said it was too dangerous.$s"
+An: "But that druid… He said yes. He gave me this body and taught me how to maintain it with magic. We weren't even friends. He just saw something in need and … helped it.$h"
+An: "It might sound silly, but I know my family won't understand any of this. So I've been telling them I'm pretending to be a human. That I got a human body to let other people see me. But I'm not pretending. I am human. $0"
+An: "Don't tell this to a lot of people though. I don't want people to look at me and just think about what I was before.$s"
+An: "Do you understand where I'm coming from, @?$7"
+An: "I mean, I guess it doesn't matter if you do. So long as you don't think of my as anybody but Antoine.$h"
+An: "Thanks for being so understanding. Do you want to hang out for a while? I'll walk you home after.$h"
+
+The farmer stumbles on a conversation between junimo and learns something about Antoine.}
+
+{6-Heart
+}
+
+{8-Heart
+}
+
+{10-Heart
+}
+
+{?-Heart
+Night - Any Weather - Antoine's Treehouse
+Actors: Antoine, Junimos, Farmer
+Dependency: Must have seen Heart Events 3, 6, and 8
+
+Script
+Letter: Hi, @! Could you come by my place tonight? I'd like your help with something big! Thanks in advance! Antoine.
+
+An: "Hey! You made it! Thanks for coming by. I invited my family here tonight and I want to tell them the truth about me. I was really hoping you'd come because I kind of need the emotional support. Don't worry, you won't have to say or do anything. Just be here.$h"
+
+Blue: "We're here! We're here!"
+Yellow: "You want to come home now, right?"
+Green: "Yay! You're done learning magic!"
+An: "Sorry, that isn't what this is about.$s"
+Blue: "It's not?"
+Green: "Oh, what is it?"
+Yellow: "Yeah! What is it?!"
+An: "Well. Um. So. I wanted to explain…$s"
+Green: "What is it?"
+Yellow: "Yeah, you're being weird."
+An: "So. I'm human.$s"
+Blue: "Duh. That's pretty obvious."
+Yellow: "Yeah!"
+An: "No, I mean. Not just right now. I am. Just always have been.$6"
+Junimo: "???"
+Blue: "That's cool! You're a cool human!"
+Green: "Why would you want to be human?"
+Yellow: "Wait. So we're not learning magic?"
+An: "I'll still teach you guys more magic. Don't worry.$h"
+Junimo: "YAY! Awesome!"
+An: (laughs)
+
+Letter Received After the Event
+@! Thanks so much for helping me talk to my family! It went really well, and I'm so happy. If not for you I never would have taken that chance! So thank you! I wanted to give you something nice too. I hope you really enjoy it. The next time you come and see me, if my family is there, you can say hi! I made sure they understand you're a very good human.
+A gift is attached.
+
+Antoine sends the farmer a letter inviting them to his house that night. He wants to tell his family that he's really human, and he needs some emotional support.}
+
+//Extra Heart Events (Pelican Town)
+{0-Heart (Wizard)
+
+Day - Raining - Cindersnap Forest
+Actors: Antoine, Wizard, Farmer
+Dependency: Must have seen Heart Events 3
+
+Script
+Wizard: "You really should be more careful. I know you just want to help, but a lot of people fear what they don't understand, and magic is a complicated art that most can't comprehend.$0"
+An: "You don't give them enough credit! Everyone I've shown magic has been very accepting and curious.$a"
+Wizard: "For now, but eventually they'll become greedy and fearful, and if things go poorly, you'll be the first one they blame.$0"
+An: "I don't think they'd blame me.$s"
+Wizard: "They'll blame anything that isn't themselves, but if you're so determined, at least slow down on how much you cast. If you keep going at this rate you'll end up shortening your lifespan drastically.$0"
+An: "I know that. I think it'll be worth it.$0"
+Wizard: "You just feel that way because you're young. When you get closer to the end of your life you'll regret that you didn't take care to give yourself more time.
+An: I don't mean any offense, but you have no idea what you're talking about.$8"
+Wizard: "Hmm, I suppose I'll leave you to that opinion then. Don't say you weren't warned.$0" (teleports away)
+An: (expresses the ellipses emote and then turns and notices farmer) "Oh, ha ha, did you see that whole thing? The wizard did something very nice for me once, so now they feel a tad bit responsible for me.$0"
+An: "It's a little annoying, but also … nice. Having someone care about you, even just a little bit, it feels good.$h"
+An: "Don't make that face. I have plenty of people that care about me, don't worry! I just like to remind myself how nice it feels so that I never forget to care about other people.$0"
+An: "I care about you too. You've been very kind to me, and I want you to know that it means a lot.$0"
+An: "I need to walk back home now, but remember that you're always welcome to come over and just chat.$h"
+An: "Bye, @. Thanks for listening to me. You're a really great listener.$h"
+
+The Wizard and Antoine are butting heads.}
+
+{?-Heart (Linus)
+Night - Sunny - Mountains (Outside Linus' Tent, around his lit fire)
+Actors: Antoine, Jessie, Linus
+Dependency: Must have seen Heart Events 3 P2
+
+Script
+Linus: "It's nice to have another like-minded person in town.$h"
+An: "I like being part of a big bustling community, it's really refreshing.$h"
+Linus: "I found the city to be very unpleasant. The people in the town are nice enough, but when too much brick and mortar choke out the grass, it just turns into chaos.$0"
+Jessie: "I find myself in a bit of a middle ground, I suppose. I love being around other people, but nature is wonderful too. It's really hard to have both at the same time though.$0"
+An: "I like the people here a lot, but it does make me sad to see how they choose to live sometimes. So disconnected from the world around them.$0"
+Linus: "That is the folly of civilization. The conveniences it brings often overshadow the wisdom whispered through the trees.$0"
+Linus: "Why contemplate the rock's journey as the stream shapes it slowly into something new when the glow of a screen brings such instant satisfaction.$0"
+Jessie: "A lot of the people in town take time to enjoy nature, Linus, but they aren't obligated to make it their sole focus.$0"
+Linus: "It is not an obligation. It is a choice that they make each day. Their wisdom and growth is shaped by what they use to make their world.$0"
+An: "I've spent my whole life living deep among the trees. A much longer time than many humans can really make claim to.$0"
+An: "Nature is beautiful, but it is also ruthless. It doesn't care for the wellbeing of the rabbit that rustles in its grass.$0"
+An: "Or the bear that catches salmon in the stream to get ready for the bitter winter.$0"
+An: "I love nature with every fiber of my being, but there is a warmth, a kindness, that humans have that nature can't express.$h"
+Linus: "That kindness comes with cruelty. Civilization will always be a double edged sword.$0"
+Jessie: "One extreme is really no better than the other, is it? Without the sun to balance the rain a plant would never grow.$0"
+Linus: "Very well put, Jessie.$h"
+An: "Yeah. Luckily this town seems to have a good balance to it. Doesn't it? I'm really happy to be here.$h"
+Antoine talks to Jessie and Linus about the nature of nature.}
+
+//Extra Heart Events (PT Improvements)
+{Special Event - Community Center Completed
+Night - Any - Town (Outside of Joja-Mart's Ruins)
+Actors: Antoine, Farmer
+
+Script
+An: "(ellipsis emote 0)"
+An: "It's completely gone. Lightning can be very destructive."
+An: "This was the source of a lot of grief for the people in town, I think most are happy to see it go.$s"
+An: "I'm not sure how I feel about it."
+An: "It gave people jobs, and a place to buy food, plus it had a refrigeration unit.$0" 
+An: "I don't think Pierre is going to start bringing in frozen produce, and the only place to get milk around here is Marnie's ranch.$0"
+An: "Oh, and your farm when you have cows.$0"
+An: "It provided a lot of conveniences, but were the people there truly happy?$7"
+An: "I always saw tired faces go in and out when they had that blue uniform on.$8"
+
+Farmer: 
+(Choice 1) "Honestly, good riddance. That place was a blight on the town."
+An: "I'm not surprised you feel that way.$0"
+
+(Choice 2) "Yeah, people were tired, but every job is stressful like that."
+An: "I don't find what I do very stressful. I am very lucky to love what I'm doing, I think. $0"
+
+(Choice 3) "Not everybody can just cheat by using magic."
+An: "I understand how magic can look like cheating, but it does take a lot of work, you know. $h"
+
+An: "JojaMart and Morris were demonized, and I'm not sure it was particularly earned.$s"
+An: "You are the reason the town got any kind of improvements. No one else was lifting a finger.$s"
+An: "Morris was a man with an unkind and disposition, but he was willing to get the work down for the town.$s"
+An: "It would have cost money, but the town could have gotten it together if they were just willing to try.$s"
+An: "It was a force of magic that helped you do what you did. If the junimo hadn't worked hard to bolster the community, would anyone else have done it?$s"
+An: "I suppose I just don't understand why everyone had to be at odds. Morris and the people who worked here were also a part of the community.$s"
+An: "They could have worked together.$s"
+An: "(sad emote 28)"
+An: "I should probably go home. Thanks for listening to me without judgment, @."
+An: "I just need to … cool off for a while.$0"
+
+Antoine talks to the Farmer about his complicated feelings towards the Joja-Mart.}
+
+{Special Event - Joja-Mart Wins
+Night - After Joja-Mart is closed for the day - Town (Outside of Joja-Mart)
+Actors: Antoine, Farmer
+
+Script
+An: (facing the Joja-mart as he speaks to the farmer) "Are you happy, @?$8"
+Farmer: "(question emote 4)"
+An: "Does this place, even with the dark energies it pours into this town, does it make you happy? Does it make anyone happy?$8"
+An: "Is my understanding of people really that limited, even now?$a" 
+An: "Will I ever understand them? Am I even a person if I can't understand them?$6"
+
+Farmer: 
+	(Choice 1) "I am happy, yes. No one else was going to do anything to fix this town."
+	An: "You're right about that, but the junimo were willing to try.$s"
+
+	(Choice 2) "No, Joja-Mart doesn't make me happy. But it doesn't make me miserable either. It just kind of. Does both and neither of those things."
+	An: "That is … very confusing, but thank you for trying to explain it. $0"
+	
+(Choice 3) "I never figured you for the existential crisis type."
+An: "How else could I feel about this? I'm so connected to nature and the earth, and that building just existing is toxic for both things.$8"
+
+An: (ellipsis emote 0)
+An: "This place creates such dark energies. All I can feel when I am near it is the negativity that it pours into the town. I just can't - how can a place like this ever make anyone happy so long as it exists?$s"
+An: "I want to understand, @. I really do. $s"
+An: "I think I'm going to need some time to … consider this. Excuse me. $s"
+Antoine is having an existential crisis and the farmer has some concerns.}
+
+//Extra Heart Events (East Scarp)
+{0-Heart (Rosa)
+Day - Sunny - East Scarp Beach
+Actors: Antoine, Rosa
+Dependency: Must have seen 0 Heart Introduction
+
+Script
+Rosa: "Thanks for helping me get all the sand out of the gears, Antoine.$h"
+An: "It's no trouble at all! My magic makes this really easy for me! I took care of some salt and rust too!$h"
+Rosa: "Really? Thanks a lot! I was going to have to send it out to be repaired soon, but now I don't have to.$h"
+An: "Nope! Is there anything else I can do for you?$0"
+Rosa: "Nah, nothing for me, but I bet Aideen could use a hand. She's working herself too hard again.$0"
+An: "Aideen? Whenever I ask her if she needs help she scowls at me.$s"
+Rosa: "Maybe it's the way you're phrasing it. Instead of saying 'need help' try 'want help' you know? Women can be strange about implying they have to have the help of a man to get by.$h"
+An: "Really? But you're a woman and you don't seem to mind my help.$7"
+Rosa: "Sure, but I don't usually have men throwing themselves at me to win my favor either.$0"
+An: "?$7"
+Rosa: "Right, I'm just confusing you again, huh? Don't worry about it. Just ask Deen if she *wants* help next time.$h"
+An: "Okay! I'll do that! Thanks!$h"
+Rosa: "Sure. Hey, could you head over to the Inn and take a look at the refrigerator? I need to make sure it's still running.$0"
+An: "Oh! I know this one! You'd better go catch it, right?$h"
+Rosa: "Ha ha, just come with me.$h"
+Antoine is using magic to help Rosa get sand out of the wheels of her cart.}
+
+{0-Heart (Aideen)
+Day - Any Weather - Inside Aideen's
+Actors: Antoine, Aideen, Farmer
+Dependency: Must have seen 0 Heart Introduction
+
+Script
+Aideen: "Hmmm. Not pink. Maybe blue?$0"
+An: "Sure!$0"
+Aideen: "No, that's not quite right either. Purple.$0"
+An: "This flower isn't usually purple.$7"
+Aideen: "No, but if we're using magic we might as well think out of the box, right?$h"
+An: "Oh, I guess so.$0"
+Aideen: "Is there a problem?$0"
+An: "Well I'm not sure the flower wants to be purple. I think it prefers being a color it knows.$s"
+Aideen: "Oh I'm sure any flower would be thrilled to get to be something new and exciting, don't you?$h"
+An: "Um. Maybe. I guess I'll try it.$h"
+Aideen: "Please.$0"
+(magic cast)
+Aideen: "Yellow? That's not quite purple.$0"
+An: "Sorry, it must have wanted to try yellow.$9"
+Aideen: "Right, well, if that's the best you can manage. Yellow is quite striking.$0"
+An: "I think it likes being yellow best.$h"
+Aideen: "I can be content with this. Why don't you go into the kitchen and have a snack. I have another arrangement I need to put together and I'm bursting with ideas for this new yellow flower.$0"
+An: "Sure thing! Thanks for letting me help!$h"
+Aideen: "Of course, of course.$0"
+Antoine is using magic to help Aideen with her flowers, changing the color of them so that she can perfect her arrangement.}
+
+{0-Heart (Jacob and Eloise)
+Day - Sunny - Town Center
+Actors: Antoine, Jacob, Eloise, Slime, Farmer
+Dependency: Must have seen 0 Heart Introduction
+
+Script
+Jacob: "How did you even find something like this?$0"
+An: "I was exploring the orchard and found it in that abandoned house. Can you help it?$7"
+Jacob: "I don't know. Monsters aren't really in my wheelhouse. Maybe that wizard in Cindersnap or Marlon…$0"
+An: "I can't go to them!$a"
+Jacob: (Question mark emote)
+An: "Sorry. I didn't mean to yell. I'm just really worried that they'll just see him as something to kill. Or worse. Experiment on.$8"
+Jacob: "Right. Well. I'm not sure I can help you much.$0"
+Eloise: (comes in frame and expresses an exclamation emote) "Is that a slime? Oh how cute!$h" (rushes over to pet it)
+Jacob: "Wait! Don't!$0"
+Eloise: (is stopped by Jacob)
+Jacob: "Don't touch it.$0"
+Eloise: "Huh? Why not? Antoine touched it to bring it here, didn't he?$0"
+An: "I didn't touch it with just my hands. I used special gloves so I could do it without it hurting me.$0"
+Eloise: "But if it can hurt people why did you bring him to daddy to help it?$0"
+An: "Because it can't help that it hurts people. See, the membrane on the outside that keeps all the jelly in it has a coating that burns if you touch it. There are a lot of animals that have things like that to protect themselves from things that would want to hurt it. That doesn't mean we should be less kind when we see one hurt or in danger.$h"
+Eloise: "Oh, okay, I understand. It looks a little dry. Maybe it needs some water?$h"
+An: "That's a very good idea, Eloise. Thank you.$h" (casts magic to wet the slime)
+Slime: (comes to life)
+Eloise: "Ooh! That's much better!$h"
+An: "I really should have thought to do that first.$h"
+Eloise: "Oh, it's okay. Sometimes I don't think of really obvious things too.$h"
+Jacob: "Are you planning to keep this thing?$0"
+An: "Definitely not. It's still a wild monster, and it's just cruel to confine wild things.$0" "Thank you both for helping me!$h"
+Jacob: "I didn't really do much, but you're welcome.$0"
+Antoine brings Jacob a sick slime to look at.}
+*/
 
 }

@@ -1,1 +1,10 @@
-{}
+{
+    "Changes": [
+        {
+            "LogName": "Characters/Dialogue/Antoine Edit",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/{{ModId}}_Antoine",
+            "Entries": {}
+        }
+    ]
+}
