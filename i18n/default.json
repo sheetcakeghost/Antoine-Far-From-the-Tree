@@ -1098,6 +1098,13 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
     "AntoineMail.Shane.HasRelationship": "Dear @,^^Shane seems to have a lot more energy lately, and he's been smiling a lot more too! Being friends with you has helped him a lot, and it makes me so happy to see him feeling better. You really do a lot around here, you know? You make such a positive difference in everyone's lives. I hope you know that they all really appreciate it. You should hear them talk about you when you're not around!^^If there's anything I can do for you, just tell me. It's a lot of work supporting others, and I'm happy you have someone who supports you too. I want to help them and you whenever I can.^^Sincerely, Antoine[letterbg 2][#]Shane looks so much better!",
 
+    "AntoineMail.Cordial": "Dear @,^^I had a dream last night that I was drifting among the trees of my old home and there was this scent that was pulling me through the branches. It was fresh and biting, but had the faintest notes of sweetness. Then I could hear the humming of old women and the clinking of glass. I glided slowly towards the sound, the smell getting stronger as I went, and then I saw it. Little old ladies in big hats and flower print dresses giggling and pouring this delicious looking drink into their glasses. When I woke up I remembered where I knew that taste from! ^^They used to make all sorts of drinks and desserts and foods with this citrus fruit in it. I remember wanting to taste those things so badly, but discerning flavor wasn't really something I was blessed with before. Now that I can, I'm so excited that I'll finally get to savor those delicious smelling things!^^The first thing I did this morning was try and make that drink those old ladies were having. I didn't really succeed, but I think it's because the fruit I remember doesn't grow here. Shame.^^Sincerely, Antoine[letterbg 2][#]Memories of citrus.",
+
+    "AntoineMail.SouthernTea": "Dear @,^^I was talking with Aideen and something she said reminded me of another nice drink from my old home. The tea leaves were different there, and the tea they made was brown instead of green. I also usually saw people drinking it with ice cubes inside! Of course they also added a bit of citrus too.^^Aideen and I spent a lot of time seeing if we could recreate it here. Turns out green tea and black tea are really different. ^^Sincerely, Antoine^^^P.S. Aideen said she would get me some black tea leaves so I can recreate it properly. I think I might have to be selfish and keep them all for myself though. Sorry![letterbg 2][#]Have you tried tea with ice before?",
+
+    //Note: This only gets sent in winter.
+    "AntoineMail.Cold": "Dear @,^^It's too cold! I've been practically living inside my fireplace and my bones are still chilly. My throat was all scratchy too! I wanted to mix up a hot drink, but I was out of chocolate powder. I did have some things for tea though that Aideen gave me. So I mixed them together and I couldn't really taste it. I think my nose is too stuffy. ^^Sincerely, Antoine[letterbg 2][#]TOO COLD",
+
 
     /*/----------Event Specific----------/*/
 
@@ -1107,138 +1114,115 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 
     /*/----------Recipe Sharing Letters----------/*/
 
-    //Conditions: Player agreed to share recipes. (Note: No other letters should trigger until this one does.) Not winter.
-    "Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for agreeing to swap recipes with me. I haven't gotten to read the ones you've sent my way just yet, but I definitely plan to as soon as I have the free time! ^ Until then, I just wanted to send you this as thanks. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine %item 194 1 %% [#]The beginning of our cooking adventure!",
+    //Conditions: Gifted Food Item 
+    "Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for your tasty gift! It really inspired me to try and cook the dish myself. I messed it up so I'm too embarassed to send it though.^ If you give me another one I won't chicken out this time though and definitely send you one back. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine[letterbg 2][#]The beginning of our cooking adventure!",
 
-    //Conditions: Has Cooking Recipe - Omelet, Not Winter
-    "Mail.RecipeOmelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine %item 195 1 %% [#]Omelet",
+    //Conditions: Gifted Omelet
+    "Mail.RecipeOmelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Omelet",
 
-    //Conditions: Has Cooking Recipe - Parsnip Soup, Not Winter
-    "Mail.RecipeParsnipSoup": "Dear @, ^^ Caroline's parsnip soup is just the best. She really puts a lot of love in it. ^ And by love I mean salt, ha ha. I didn't use quite as much. ^   Sincerely, Antoine %item 195 1 %% [#]Parsnip Soup",
+    //Conditions: Gifted Parsnip Soup
+    "Mail.RecipeParsnipSoup": "Dear @, ^^ Caroline's parsnip soup is just the best. She really puts a lot of love in it. ^ And by love I mean salt, ha ha. I didn't use quite as much. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Parsnip Soup",
 
-    //Conditions: Has Cooking Recipe - Vegetable Medley, Not Winter
-    "Mail.RecipeVegetableMedley": "Dear @, ^^ I'm in love with the vegetable combination that Caroline puts in her vegetable medley! I had to make extra just to have some again later. ^   Sincerely, Antoine %item 195 1 %% [#]Vegetable Medley",
+    //Conditions: Gifted Vegetable Medley
+    "Mail.RecipeVegetableMedley": "Dear @, ^^ I'm in love with the vegetable combination that Caroline puts in her vegetable medley! I had to make extra just to have some again later. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Vegetable Medley",
 
-    //Conditions: Has Cooking Recipe - Algae Soup, Not Winter
-    "Mail.RecipeAlgaeSoup": "Dear @, ^^ You know, some people really get put off by algae's odd texture. I really like it though, and Clint was really clever with it. ^   Sincerely, Antoine %item 195 1 %% [#]Algae Soup",
+    //Conditions: Gifted Algae Soup
+    "Mail.RecipeAlgaeSoup": "Dear @, ^^ You know, some people really get put off by algae's odd texture. I really like it though, and Clint was really clever with it. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Algae Soup",
 
-    //Conditions: Has Cooking Recipe - Bean Hotpot, Not Winter
-    "Mail.RecipeBeanHotpot": "Dear @, ^^ Something about Clint's bean hotpot really draws you in. I got a lot of extra energy after trying it too. ^ Who would have thought Clint would have it in him, huh? ^   Sincerely, Antoine %item 195 1 %% [#]Bean Hotpot",
+    //Conditions: Gifted Bean Hotpot
+    "Mail.RecipeBeanHotpot": "Dear @, ^^ Something about Clint's bean hotpot really draws you in. I got a lot of extra energy after trying it too. ^ Who would have thought Clint would have it in him, huh? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Bean Hotpot",
 
-    //Conditions: Has Cooking Recipe - Roots Platter, Not Winter
-    "Mail.RecipeRootsPlatter": "Dear @, ^^ I guess spending so much time in the mines really gave you some inspiration. ^ It was super tasty, and I'm definitely going to make some again later! ^  Sincerely, Antoine %item 195 1 %% [#]Roots Platter",
+    //Conditions: Gifted Roots Platter
+    "Mail.RecipeRootsPlatter": "Dear @, ^^ I guess spending so much time in the mines really gave you some inspiration. ^ It was super tasty, and I'm definitely going to make some again later! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Roots Platter",
 
-    //Conditions: Has Cooking Recipe - Squid Ink Ravioli, Not Winter
-    "Mail.RecipeSquidInkRavioli": "Dear @, ^^ This is such a clever use of squid ink! But I didn't have any from squid so I just used regular ink. ^ Ha ha, just kidding. I wish I could have seen your face. ^  Sincerely, Antoine %item 195 1 %% [#]Squid Ink Ravioli",
+    //Conditions: Gifted Squid Ink Ravioli
+    "Mail.RecipeSquidInkRavioli": "Dear @, ^^ This is such a clever use of squid ink! But I didn't have any from squid so I just used regular ink. ^ Ha ha, just kidding. I wish I could have seen your face. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Squid Ink Ravioli",
 
-    //Conditions: Has Cooking Recipe - Fried Mushroom, Not Winter
-    "Mail.RecipeFriedMushroom": "Dear @, ^^ Demetrius' fried mushrooms are so tasty. I never would have thought to cook them this way! ^ I managed to pick the mushrooms super fresh too. ^  Sincerely, Antoine %item 195 1 %% [#]Fried Mushroom",
+    //Conditions: Gifted Fried Mushroom
+    "Mail.RecipeFriedMushroom": "Dear @, ^^ Demetrius' fried mushrooms are so tasty. I never would have thought to cook them this way! ^ I managed to pick the mushrooms super fresh too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Mushroom",
 
-    //Conditions: Has Cooking Recipe - Autumn's Bounty, Not Winter
-    "Mail.RecipeAutumnsBounty": "Dear @, ^^ YAMS! I used so many of them in my version of this dish! Demetrius really knows his stuff. ^ Don't worry, there isn't nearly as much yam in yours, ha ha. ^  Sincerely, Antoine %item 195 1 %% [#]Autumn's Bounty",
+    //Conditions: Gifted Autumn's Bounty
+    "Mail.RecipeAutumnsBounty": "Dear @, ^^ YAMS! I used so many of them in my version of this dish! Demetrius really knows his stuff. ^ Don't worry, there isn't nearly as much yam in yours, ha ha. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Autumn's Bounty",
 
-    //Conditions: Has Cooking Recipe - Ginger Ale, Not Winter
-    "Mail.RecipeGingerAle": "Dear @, ^^ Wow, a dwarf recipe. This must be pretty special. It tastes good too. ^ What do you mean it cost you 1,000g?! ^  Sincerely, Antoine %item 195 1 %% [#]Ginger Ale",
+    //Conditions: Gifted Ginger Ale
+    "Mail.RecipeGingerAle": "Dear @, ^^ Wow, a dwarf recipe. This must be pretty special. It tastes good too. ^ What do you mean it cost you 1,000g?! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ginger Ale",
 
-    //Conditions: Has Cooking Recipe - Salad, Not Winter
-    "Mail.RecipeSalad": "Dear @, ^^ Ah, Emily said she sent you her salad recipe. I'm a big fan of it too. Ha ha, no surprise there, huh? ^ I tried a different dressing than what she tends to use. ^  Sincerely, Antoine %item 195 1 %% [#]Salad",
+    //Conditions: Gifted Salad
+    "Mail.RecipeSalad": "Dear @, ^^ Ah, Emily said she sent you her salad recipe. I'm a big fan of it too. Ha ha, no surprise there, huh? ^ I tried a different dressing than what she tends to use. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salad",
 
-    //Conditions: Has Cooking Recipe - Red Plate, Not Winter
-    "Mail.RedPlate": "Dear @, ^^ This dish is pretty good for you. Just, uh, don't eat too much of it all at once. ^ Everyone digests things … a little different. ^  Sincerely, Antoine %item 195 1 %% [#]Red Plate",
+    //Conditions: Gifted Red Plate
+    "Mail.RedPlate": "Dear @, ^^ This dish is pretty good for you. Just, uh, don't eat too much of it all at once. ^ Everyone digests things … a little different. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Red Plate",
 
-    //Conditions: Has Cooking Recipe - Cookie, Not Winter
-    "Mail.Cookie": "Dear @, ^^ Evelyn gave you her cookie recipe?! They so good! ^ I've sort of been eating them non-stop. I managed to save you these though. ^  Sincerely, Antoine %item 195 1 %% [#]Cookie",
+    //Conditions: Gifted Cookie
+    "Mail.Cookie": "Dear @, ^^ Evelyn gave you her cookie recipe?! They so good! ^ I've sort of been eating them non-stop. I managed to save you these though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Cookie",
 
-    //Conditions: Has Cooking Recipe - Rice Pudding, Not Winter
-    "Mail.RicePudding": "Dear @, ^^ I'm not so sure how I feel about the sweetness of this one. Maybe I didn't follow the recipe right? ^ At least it's fun to eat though. ^  Sincerely, Antoine %item 195 1 %% [#]Rice Pudding",
+    //Conditions: Gifted Rice Pudding
+    "Mail.RicePudding": "Dear @, ^^ I'm not so sure how I feel about the sweetness of this one. Maybe I didn't follow the recipe right? ^ At least it's fun to eat though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Rice Pudding",
 
-    //Conditions: Has Cooking Recipe - Farmer's Lunch, Not Winter
-    "Mail.FarmersLunch": "Dear @, ^^ Any good farmer needs a good farmer's lunch. This is such a clever way of jazzing up an omelet. ^ The Queen would be proud! ^  Sincerely, Antoine %item 195 1 %% [#]Farmer's Lunch",
+    //Conditions: Gifted Farmer's Lunch
+    "Mail.FarmersLunch": "Dear @, ^^ Any good farmer needs a good farmer's lunch. This is such a clever way of jazzing up an omelet. ^ The Queen would be proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Farmer's Lunch",
 
-    //Conditions: Has Cooking Recipe - Seafoam Pudding, Not Winter
-    "Mail.SeafoamPudding": "Dear @, ^^ Well this one was certainly interesting. I guess when you're out at sea you really have to work with what you've got. ^ Sorry if this one is a bit … thick. ^  Sincerely, Antoine %item 195 1 %% [#]Seafoam Pudding",
+    //Conditions: Gifted Seafoam Pudding
+    "Mail.SeafoamPudding": "Dear @, ^^ Well this one was certainly interesting. I guess when you're out at sea you really have to work with what you've got. ^ Sorry if this one is a bit … thick. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Seafoam Pudding",
 
-    //Conditions: Has Cooking Recipe - Dish O' The Sea, Not Winter
-    "Mail.DishOTheSea": "Dear @, ^^ Fish and hashbrowns were not a combination I'd considered before, but it really works! ^ I'm not sure how you're supposed to keep it from getting soggy though. ^  Sincerely, Antoine %item 195 1 %% [#]Dish O' The Sea",
+    //Conditions: Gifted Dish O' The Sea
+    "Mail.DishOTheSea": "Dear @, ^^ Fish and hashbrowns were not a combination I'd considered before, but it really works! ^ I'm not sure how you're supposed to keep it from getting soggy though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Dish O' The Sea",
 
-    //Conditions: Has Cooking Recipe - Survival Burger, Not Winter
-    "Mail.SurvivalBurger": "Dear @, ^^ Ha ha, I'm not sure I could call this one a burger, but it's definitely a tasty sandwich! ^ I can see how it might want you to go out and find more to eat though. ^  Sincerely, Antoine %item 195 1 %% [#]Survival Burger",
+    //Conditions: Gifted Survival Burger
+    "Mail.SurvivalBurger": "Dear @, ^^ Ha ha, I'm not sure I could call this one a burger, but it's definitely a tasty sandwich! ^ I can see how it might want you to go out and find more to eat though. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Survival Burger",
 
-    //Conditions: Has Cooking Recipe - Fried Eel, Not Winter
-    "Mail.FriedEel": "Dear @, ^^ Evelyn isn't the only chef in the family! This fried eel was a little bit greasy but great! ^ I tried to soak some of the extra grease off with a paper towel. ^  Sincerely, Antoine %item 195 1 %% [#]Fried Eel",
+    //Conditions: Gifted Fried Eel
+    "Mail.FriedEel": "Dear @, ^^ Evelyn isn't the only chef in the family! This fried eel was a little bit greasy but great! ^ I tried to soak some of the extra grease off with a paper towel. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Eel",
 
-    //Conditions: Has Cooking Recipe - Spicy Eel, Not Winter
-    "Mail.SpicyEel": "Dear @, ^^ This one has some kick to it! It really puts a fire in your belly. ^ Just be careful not to get too much fire down there. It has to come out sometime. ^  Sincerely, Antoine %item 195 1 %% [#]Spicy Eel",
+    //Conditions: Gifted Spicy Eel
+    "Mail.SpicyEel": "Dear @, ^^ This one has some kick to it! It really puts a fire in your belly. ^ Just be careful not to get too much fire down there. It has to come out sometime. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Spicy Eel",
 
-    //Conditions: Has Cooking Recipe - Tropical Curry, Not Winter
-    "Mail.TropicalCurry": "Dear @, ^^ The pineapple bowl is such an interesting touch, but I'm not sure how it really enhances the curry. ^ Hot pepper and coconut are also a bit … I'm sorry you paid how much for this? ^  Sincerely, Antoine %item 195 1 %% [#]Tropical Curry",
+    //Conditions: Gifted Tropical Curry
+    "Mail.TropicalCurry": "Dear @, ^^ The pineapple bowl is such an interesting touch, but I'm not sure how it really enhances the curry. ^ Hot pepper and coconut are also a bit … I'm sorry you paid how much for this? ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Tropical Curry",
 
-    //Conditions: Has Cooking Recipe - Salmon Dinner, Not Winter
-    "Mail.SalmonDinner": "Dear @, ^^ Wow, Gus definitely knows what he's doing. This was the best salmon dish I've ever made. ^ I hope you'll agree. ^  Sincerely, Antoine %item 195 1 %% [#]Salmon Dinner",
+    //Conditions: Gifted Salmon Dinner
+    "Mail.SalmonDinner": "Dear @, ^^ Wow, Gus definitely knows what he's doing. This was the best salmon dish I've ever made. ^ I hope you'll agree. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salmon Dinner",
 
-    //Conditions: Has Cooking Recipe - Cranberry Sauce, Not Winter
-    "Mail.CranberrySauce": "Dear @, ^^ I guess the only way some people can eat cranberries is if you cook them with a lot of sugar. ^ I don't really mind the bitterness myself, but having it sweet is nice sometimes too. ^  Sincerely, Antoine %item 195 1 %% [#]Cranberry Sauce",
+    //Conditions: Gifted Cranberry Sauce
+    "Mail.CranberrySauce": "Dear @, ^^ I guess the only way some people can eat cranberries is if you cook them with a lot of sugar. ^ I don't really mind the bitterness myself, but having it sweet is nice sometimes too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Cranberry Sauce",  
 
-    //Conditions: Has Cooking Recipe - Triple Shot Espresso, Not Winter
-    "Mail.TripleShotEspresso": "Dear @, ^^ This was so strong! I've been shaking all morning! I don't like it! ^ Here, you can just have all of it. I hope it was worth the money. ^  Sincerely, Antoine %item 195 1 %% [#]Triple Shot Espresso",
+    //Conditions: Gifted Triple Shot Espresso
+    "Mail.TripleShotEspresso": "Dear @, ^^ This was so strong! I've been shaking all morning! I don't like it! ^ Here, you can just have all of it. I hope it was worth the money. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Triple Shot Espresso",
 
-    //Conditions: Has Cooking Recipe - Banana Pudding, Not Winter
-    "Mail.BananaPudding": "Dear @, ^^ You got this recipe from a mysterious bird for a bunch of bone fragments? ^ Well it's definitely tasty! So it was worth it! I added little vanilla cookies to mine. ^  Sincerely, Antoine %item 195 1 %% [#]Banana Pudding",
+    //Conditions: Gifted Banana Pudding
+    "Mail.BananaPudding": "Dear @, ^^ You got this recipe from a mysterious bird for a bunch of bone fragments? ^ Well it's definitely tasty! So it was worth it! I added little vanilla cookies to mine. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Banana Pudding",
 
-    //Conditions: Has Cooking Recipe - Fried Calamari, Not Winter
-    "Mail.FriedCalamari": "Dear @, ^^ Jodi's fried calamari is really chewy. It's definitely a whole experience. ^ I hope it's one you enjoy. ^  Sincerely, Antoine %item 195 1 %% [#]Fried Calamari",
+    //Conditions: Gifted Fried Calamari
+    "Mail.FriedCalamari": "Dear @, ^^ Jodi's fried calamari is really chewy. It's definitely a whole experience. ^ I hope it's one you enjoy. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Calamari",
 
-    //Conditions: Has Cooking Recipe - Ice Cream, Not Winter
-    "Mail.IceCream": "Dear @, ^^ I've never made ice cream before, I didn't realize it was so simple! ^ It's a little cold for my liking, but on a really hot day I guess it'd be nice! ^  Sincerely, Antoine %item 195 1 %% [#]Ice Cream",
+    //Conditions: Gifted Ice Cream
+    "Mail.IceCream": "Dear @, ^^ I've never made ice cream before, I didn't realize it was so simple! ^ It's a little cold for my liking, but on a really hot day I guess it'd be nice! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ice Cream",
 
-    //Conditions: Has Cooking Recipe - Crispy Bass, Not Winter
-    "Mail.CrispyBass": "Dear @, ^^ Kent is full of surprises. One of them being he knows how to cook a mean bass dish. ^ I managed to get it extra crispy too. ^  Sincerely, Antoine %item 195 1 %% [#]Crispy Bass",
+    //Conditions: Gifted Crispy Bass
+    "Mail.CrispyBass": "Dear @, ^^ Kent is full of surprises. One of them being he knows how to cook a mean bass dish. ^ I managed to get it extra crispy too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Crispy Bass",
 
-    //Conditions: Has Cooking Recipe - Crispy Bass, Not Winter
-    "Mail.SuperMeal": "Dear @, ^^ This one definitely gives you a lot of energy! I guess Kent really needed that before. ^ I'm glad he can finally start to relax some. ^  Sincerely, Antoine %item 195 1 %% [#]Super Meal",
+    //Conditions: Gifted Super Meal
+    "Mail.SuperMeal": "Dear @, ^^ This one definitely gives you a lot of energy! I guess Kent really needed that before. ^ I'm glad he can finally start to relax some. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Super Meal",
 
-    //Conditions: Has Cooking Recipe - Poi, Not Winter
-    "Mail.Poi": "Dear @, ^^ Little Leo came up with this all by himself? It's sweeter than I expected. ^ He should be really proud! ^  Sincerely, Antoine %item 195 1 %% [#]Poi",
+    //Conditions: Gifted Poi
+    "Mail.Poi": "Dear @, ^^ Little Leo came up with this all by himself? It's sweeter than I expected. ^ He should be really proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Poi",
 
-    //Conditions: Has Cooking Recipe - Mango Sticky Rice, Not Winter
-    "Mail.MangoStickyRice": "Dear @, ^^ This was a lot more complex than I expected from Leo, but it sure tastes good! ^ I think mango might just be one of my favorite fruits these days. ^  Sincerely, Antoine %item 195 1 %% [#]Mango Sticky Rice",
+    //Conditions: Gifted Mango Sticky Rice
+    "Mail.MangoStickyRice": "Dear @, ^^ This was a lot more complex than I expected from Leo, but it sure tastes good! ^ I think mango might just be one of my favorite fruits these days. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Mango Sticky Rice",
 
-    //Conditions: Has Cooking Recipe - Spaghetti, Not Winter
-    "Mail.Spaghetti": "Dear @, ^^ I didn't know Lewis could make a spaghetti that didn't come out of a jar. Good for him! ^Making the noodles was kind of hard, but I think they turned out well. ^  Sincerely, Antoine %item 195 1 %% [#]Spaghetti",
+    //Conditions: Gifted Spaghetti
+    "Mail.Spaghetti": "Dear @, ^^ I didn't know Lewis could make a spaghetti that didn't come out of a jar. Good for him! ^Making the noodles was kind of hard, but I think they turned out well. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Spaghetti",
 
-    //Conditions: Has Cooking Recipe - Eggplant Parmesan, Not Winter
-    "Mail.EggplantParmesan": "Dear @, ^^ So, I heard this was supposed to have cheese in it? With Lewis going to Marnie's Ranch all the time you'd think he'd have plenty of it. ^ I had to grow a large eggplant for this one, and Juliet wanted to take a bunch of pictures of it. She must have been so proud! ^  Sincerely, Antoine %item 195 1 %% [#]Eggplant Parmesan",
+    //Conditions: Gifted Eggplant Parmesan
+    "Mail.EggplantParmesan": "Dear @, ^^ So, I heard this was supposed to have cheese in it? With Lewis going to Marnie's Ranch all the time you'd think he'd have plenty of it. ^ I had to grow a large eggplant for this one, and Juliet wanted to take a bunch of pictures of it. She must have been so proud! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Eggplant Parmesan",
 
-    //Conditions: Has Cooking Recipe - Sashimi, Not Winter
-    "Mail.Sashimi": "Dear @, ^^ Raw fish is so good. Linus definitely knows what he's doing. ^ I managed to get these sliced extra thin. They're very delicate. ^  Sincerely, Antoine %item 195 1 %% [#]Sashimi",
+    //Conditions: Gifted Sashimi
+    "Mail.Sashimi": "Dear @, ^^ Raw fish is so good. Linus definitely knows what he's doing. ^ I managed to get these sliced extra thin. They're very delicate. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Sashimi",
 
-    //Conditions: Has Cooking Recipe - Fish Taco, Not Winter
-    "Mail.FishTaco": "Dear @, ^^ When I told Abigail I was eating a fish taco she started laughing. I don't really understand why. Linus did a good job with the recipe. ^  Sincerely, Antoine %item 195 1 %% [#]Fish Taco",
-
-
-
-/*//----------Unused Letters----------/*/
-
-	//These letters are not used in the game, but were written for fun. 
-	/*
-
- "AntoineMail.Extract": "Dear @,^^I just learned something very interesting about Lemon Stones! Turns out, if you put one in an oil press it makes a honey colored extract. I don't really know what to do with the stuff yet, but it has a really nice, tart taste to it! Maybe don't try and drink it without mixing it into some water first.^^There's something about the smell of it that reminds me of my old home, but I'm not sure why. I'll probably figure it out if I use it in some things and see how they turn out.^^If I get anything good I'll let you know!^^Sincerely, Antoine[letterbg 2][#]So I just learned something interesting!",
-
-    "AntoineMail.LemonCordial": "Dear @,^^I had a dream last night that I was drifting among the trees of my old home and there was this scent that was pulling me through the branches. It was fresh and biting, but had the faintest notes of sweetness. Then I could hear the humming of old women and the clinking of glass. I glided slowly towards the sound, the smell getting stronger as I went, and then I saw it. Little old ladies in big hats and flower print dresses giggling and pouring this delicious looking drink into their glasses. When I woke up I remembered where I knew that taste from! ^^They used to make all sorts of drinks and desserts and foods with this citrus fruit in it. I remember wanting to taste those things so badly, but discerning flavor wasn't really something I was blessed with before. Now that I can, I'm so excited that I'll finally get to savor those delicious smelling things!^^The first thing I made was that drink those old ladies were having. If you add a lot of lemon stone extract into some water, and put some fruit and sugar in there with it, it's a really refreshing, cold drink. This is so fun! I wonder what else we can do with this stuff?^^Sincerely, Antoine[letterbg 2][#]Memories of citrus.",
-
-    "AntoineMail.SouthernTea": "Dear @,^^I was talking with Aideen and something she said reminded me of another nice drink from my old home. The tea leaves were different there, and the tea they made was brown instead of green. I also usually saw people drinking it with ice cubes inside! Of course they also added a bit of that citrus too.^^Aideen and I spent a lot of time seeing if we could recreate it here. Turns out green tea and black tea are really different, but she says that this recipe definitely makes something similar. I hope you really enjoy it!^^Sincerely, Antoine^^^P.S. Aideen said she would get me some black tea leaves so I can recreate it properly. I think I might have to be selfish and keep them all for myself though. Sorry![letterbg 2][#]Have you tried tea with ice before?",
-
-    "AntoineMail.SlimeCheese": "Dear @,^^Okay, so I saw this thing online saying that if you put slime in a cheese press that it makes slime cheese? That can't actually be true, right? Wouldn't it just mush the slime up in there? I kind of want to know if you can do that, and I also really don't. So, uh, do what you will with this information, I guess.^^Sincerely, Antoine[letterbg 2][#]Slime cheese?",
-
-    "AntoineMail.Seafu": "Dear @,^^I really like fish, but I heard that some people can't eat them! I started looking for things that could taste like fish, but wasn't really a fish, and I think I found something really interesting! If you put some seaweed into a mayonnaise maker it pops out something that tastes just like fish, but has a soft spongy texture. It seems like it would be really fun to experiment with, don't you think? You could probably use it instead of fish in any recipe for fish or with fish in it. ^^I'm so glad that people who can't eat fish can still enjoy seafood! ^^Sincerely, Antoine[letterbg 2][#]Fun Faux Fish",
-
-    "AntoineMail.TheColdChaser": "Dear @,^^It's too cold! I've been practically living inside my fireplace and my bones are still chilly. My throat was all scratchy too! I wanted to mix up a hot drink, but I was out of chocolate powder. I did have some things for tea though that Aideen gave me. So I mixed them together and it tasted really good. It made my scratchy throat go away too! I'm sending you the recipe to help you chase the cold away.^^Sincerely, Antoine[letterbg 2][#]TOO COLD",
+    //Conditions: Gifted Fish Taco
+    "Mail.FishTaco": "Dear @, ^^ When I told Abigail I was eating a fish taco she started laughing. I don't really understand why. Linus did a good job with the recipe. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fish Taco"
 
 
-
-
-
-/*/
 
 
 }
