@@ -1,0 +1,10 @@
+{
+    "Name": "Pineapple Upside Down Cake Recipe",
+    "Author": "Berry",
+    "Version": "1.0.0",
+    "Description": "Antoine's proposal item.",
+    "UniqueID": "Berry.PineappleUpsideDownCakeRecipe",
+    "ContentPackFor": {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
+}

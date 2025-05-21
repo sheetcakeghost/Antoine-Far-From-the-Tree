@@ -1,0 +1,59 @@
+{
+	"Name": "Pineapple Upside Down Cake", 
+	"Description": "This gooey, caramelly, pineappley, treat is Antoine's favorite.", 
+	"Category": "Cooking", 
+	"Edibility": 60, 
+	"EdibleIsDrink": false, 
+	"EdibleBuffs": {
+					"Farming": 0,
+					"Fishing": 0,
+					"Mining": 0,
+					"Luck": 2, 
+					"Foraging": 0,
+					"MaxStamina": 0, 
+					"MagnetRadius": 0,
+					"Speed": 0,
+					"Defense": 0, 
+					"Attack": 0,
+					"Duration": 120 
+			},
+			
+			"Price": 150, 
+			
+			"IsColored": false, 
+			
+			"Recipe": {
+			  "ResultCount": 1, 
+			  
+			  "Ingredients": [
+								{
+								   "Object": "Golden Pheasant Eggs", 
+								   "Count": 1 
+								},
+								{
+								   "Object": "Pineapple", 
+								   "Count": 1
+								},
+								{
+								   "Object": "Flour", 
+								   "Count": 1
+								}
+			      ],
+			   
+			   "IsDefault": "False", 
+			   
+			   "CanPurchase": "True", 
+			   "PurchaseFrom": "Rosa", 			   
+			   "PurchasePrice": 100, 
+			   
+			   "PurchaseRequirements": ["f Antoine 2500"]
+			},
+  
+	"GiftTastes": { 
+					"Love": [ "Pam", "Sandy", "Shane" ], 
+					"Like": [ "Leah", "Lewis", "Demetrius", "Elliott", "Harvey", "Jodi", "Kent", "Linus", "Robin" ], 
+					"Neutral": [  "Caroline", "Clint", "Dwarf", "Emily", "Evelyn", "George", "Gus", "Krobus", "Leo", "Marnie", "Maru", "Penny", "Pierre", "Sam", "Sebastian", "Willy", "Wizard" ], 
+					"Dislike": [ "Abigail", "Jas", "Vincent"], 
+					"Hate": [  "Haley" ]	
+	}
+}
