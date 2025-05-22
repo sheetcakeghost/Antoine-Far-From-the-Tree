@@ -489,6 +489,68 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 /* :::::::::::::::::::::::::::::::::::::::::: */
 /* :::::::::::::::::::::::::::::::::::::::::: */
 
+/*/ Junimo ~ Daily /*/ 
+"Antoine.Daily.Junimo.1": "I've been practicing human speech! Listen: 'Good morn-ing, @!' Did I get it right?$h#$b#It's harder than it looks, you know. Junimo sounds are much simpler.$7",
+"Antoine.Daily.Junimo.2": "The other Junimos think I'm strange for spending so much time near humans.$s#$b#But there's something about your kind that fascinates me. The way you create, the way you care...$1",
+"Antoine.Daily.Junimo.3": "I saw you working in your fields yesterday. Such dedication!$h#$b#We Junimos understand hard work, but humans... you do it even when magic could make things easier.$0",
+"Antoine.Daily.Junimo.4": "Do you ever feel like you don't quite fit where you're supposed to be?$7#$b#Not that I'm complaining! I love being... what I am. It's just...$s#$b#Never mind. How are your crops growing?$0",
+"Antoine.Daily.Junimo.5": "The forest spirits say I talk too much about human things now.$6#$b#But conversation is wonderful, isn't it? Even when words feel clumsy in my... well, however I speak.$h",
+"Antoine.Daily.Junimo.6": "The days really can stretch on forever sometimes, can't they?$1#$b#I like to spend my infinite expanse of time learning new human expressions. Today I learned 'serendipity!' What a lovely word.$h",
+"Antoine.Daily.Junimo.7": "I tried to help some other humans with their gardens, but they couldn't see me properly.$s#$b#It's... lonely sometimes, being mostly invisible. Thank you for always noticing me, @.$h",
+"Antoine.Daily.Junimo.9": "I've been watching how humans show affection. The gestures, the words...$7#$b#It's so much more complex than Junimo bonding. But also more... beautiful?$1",
+"Antoine.Daily.Junimo.10": "Sometimes I dream of being tall enough to reach the high branches.$7#$b#Or having hands that could properly hold the tools you use. Strange dreams for a forest spirit, aren't they?$0",
+"Antoine.Daily.Junimo.11": "The other Junimos are gathering for the evening dance. I should join them...$0#$b#But I'd rather stay here and talk with you, if that's alright.$h",
+"Antoine.Daily.Junimo.12": "Do you think understanding and being understood are the same thing?$7#$b#I understand so much about humans now, but I wonder if any human could truly understand... what I am.$s",
+"Antoine.Daily.Junimo.13": "If you could change one fundamental thing about yourself, would you?$7#$b#Even if it meant leaving behind everything familiar?$s",
+"Antoine.Daily.Junimo.14": "The forest will always be part of me, no matter what form I take.$1#$b#Wait... did I say that out loud? I meant... never mind what I meant.$9",
+
+/*/ Junimo ~ Fall /*/
+"Antoine.Daily.Junimo.Fall.1": "The changing leaves remind me that everything transforms eventually.$0#$b#Some changes are natural, others... require great courage.$7",
+"Antoine.Daily.Junimo.Fall.2": "I helped gather some hazelnuts for the forest stores today.$0#$b#But my heart wasn't in it. Is it strange that a Junimo's heart longs for something beyond the forest?$s",
+"Antoine.Daily.Junimo.Fall.3": "The harvest season makes me think about growth.$1#$b#Plants grow up toward the light. Maybe... maybe spirits can grow toward something too?$7",
+
+/*/ Junimo ~ Winter /*/
+"Antoine.Daily.Junimo.Winter.1": "The cold makes me think about warmth. Not just physical warmth, but...$0#$b#The warmth of truly belonging somewhere. Of being seen and understood.$h",
+
+/*/ Junimo ~ Gonna Change /*/
+"Antoine.Daily.Junimo.GonnaChange.1": "Do you think friendship can survive any change, @?$7#$b#Even changes that seem impossible?$s",
+"Antoine.Daily.Junimo.GonnaChange.2": "I've been thinking about our conversations, @.$0#$b#You've helped me understand what it means to truly connect with someone.$h#$b#That understanding... it's given me the courage to make a choice I never thought possible.$1",
+"Antoine.Daily.Junimo.GonnaChange.3": "I've made a decision about something important.$7#$b#I can't tell you what yet, but... I hope you'll still want to be my friend afterward.$s",
+"Antoine.Daily.Junimo.GonnaChange.4": "I may not see you for a while after today.$s#$b#But if... when we meet again, I hope you'll recognize the part of me that's always been your friend.$h",
+"Antoine.Daily.Junimo.GonnaChange.5": "This might be goodbye, for now.$s#$b#Thank you for treating me like I mattered, even when I was just a strange little forest spirit.$h#$b#I'll never forget your kindness.$1",
+
+/*/ New Human ~ Daily /*/
+"Antoine.Daily.NewHuman.1": "Good morning, @! I'm still getting used to saying that with a human voice.$h#$b#It feels so different from... before. But I like how the words feel when they come from an actual throat.$1",
+"Antoine.Daily.NewHuman.2": "I tried to pick up a flower yesterday and accidentally crushed it.$s#$b#These hands are so much stronger than I expected! I'm still learning how much pressure is too much.$7#$b#The flower forgave me, though. They always do.$0",
+"Antoine.Daily.NewHuman.3": "Walking on two legs is... an adventure.$6#$b#I keep expecting to float like I used to, but gravity has other plans. Good thing humans invented chairs!$h",
+"Antoine.Daily.NewHuman.4": "Do you know how strange it is to suddenly need to eat food instead of absorbing forest energy?$7#$b#But oh, @, the *tastes*! I had bread yesterday and nearly cried. How do you live with flavors being so wonderful?$h",
+"Antoine.Daily.NewHuman.5": "I spent an hour yesterday just looking at my hands.$7#$b#Fingers! Individual fingers that can move separately! I kept wiggling them and laughing.$h#$b#The shopkeeper thought I was quite odd, I'm sure.$0",
+"Antoine.Daily.NewHuman.6": "I helped Aideen with her garden today, and she could actually *see* me helping!$h#$b#No more invisible assistance. It felt... collaborative. I think I like that better.$1",
+"Antoine.Daily.NewHuman.7": "I'm learning that humans have something called 'personal space.'$6#$b#Apparently floating up to someone's face to talk isn't considered polite anymore.$0#$b#Social rules are complicated, but I'm getting there.$h",
+"Antoine.Daily.NewHuman.8": "Gus taught me about something called 'appetite' today.$h#$b#It's this feeling that tells you when you want food! Before, I just absorbed what I needed.$7#$b#Hunger is uncomfortable, but the satisfaction of eating... that's wonderful.$1",
+"Antoine.Daily.NewHuman.9": "I had my first proper conversation with Jacob yesterday.$h#$b#Not just me trying to communicate and him half-hearing forest whispers. An actual back-and-forth!$1#$b#I think I talked his ear off. Do humans actually lose ears from too much talking?$7",
+"Antoine.Daily.NewHuman.10": "Sleep is the strangest thing.$7#$b#Junimos don't really sleep - we just dim our energy when the forest rests. But human sleep? Dreams?$9#$b#I dreamed I was still small and blue, but I wasn't sad about it. Just... grateful for the journey.$h",
+"Antoine.Daily.NewHuman.11": "I helped Evelyn bake cookies today! With these hands, I can actually knead dough!$h#$b#She said I have a 'natural touch' with ingredients. I think it's because I can still sense what they need.$1",
+"Antoine.Daily.NewHuman.12": "Harvey asked me about my medical history during a checkup.$6#$b#How do you explain 'I was a forest spirit until recently' to a doctor?$7#$b#I told him I had an unusual childhood. Not technically a lie!$0",
+"Antoine.Daily.NewHuman.13": "The other day I instinctively tried to phase through a door.$9#$b#I walked right into it instead. Doors are much more solid when you're solid too!$h#$b#I'm getting better at remembering I have a physical form now.$0",
+"Antoine.Daily.NewHuman.14": "Abigail asked if I wanted to join her for some adventure in the mines.$h#$b#The old me would have just watched from the shadows. But now... now I can actually *do* things alongside humans!$1#$b#I said yes, of course. Though I should probably learn about 'safety equipment' first.$7",
+"Antoine.Daily.NewHuman.15": "I'm starting to understand human emotions better now that I have human chemistry.$7#$b#Happiness isn't just a warm glow anymore - it's this bubbling feeling in my chest! And sadness actually hurts.$0#$b#It's all so much more *intense* than I expected.$1",
+"Antoine.Daily.NewHuman.16": "I caught myself humming while I worked today.$h#$b#Not forest songs, but human melodies I've picked up around town. My voice can carry a tune now!$1#$b#I might ask Sam to teach me more about music.$7",
+"Antoine.Daily.NewHuman.17": "Thank you, @.$h#$b#For seeing me when I was invisible, for accepting me when I was strange, and for being my friend through this whole transformation.$1#$b#I couldn't have done this without you.$h",
+"Antoine.Daily.NewHuman.18": "I tried to cook something today without using any magic at all.$7#$b#It took three times as long and I burned the first attempt.$6#$b#But when I finally got it right? The pride I felt was completely different from magical success.$h#$b#Human achievement has its own special flavor.$1",
+"Antoine.Daily.NewHuman.19": "I'm not the same Junimo who first watched humans from the forest shadows.$0#$b#But I'm not fully human either, am I? I'm something new. Something between.$1#$b#And you know what? I think that's exactly what I was meant to be.$h",
+
+
+/*/ New Human ~ Winter /*/ 
+"Antoine.Daily.NewHuman.Winter.1": "Cold weather used to just be a change in forest energy.$7#$b#But now? Now I understand why humans invented hot chocolate and warm fires.$h#$b#Comfort is a beautiful concept. I'm glad I get to experience it.$1",
+"Antoine.Daily.NewHuman.Winter.2": "I helped Linus gather firewood today, and we had a long talk about belonging.$0#$b#He said home isn't always where you start - sometimes it's where you choose to stay.$h#$b#I think I'm starting to understand what he means.$1",
+"Antoine.Daily.NewHuman.Winter.3": "George was grumpy about the snow, so I used a little magic to clear his walkway.$h#$b#He hasn't figured out it was me yet. Some things about being helpful haven't changed!$1#$b#Though now I have to be more careful about being seen doing magic.$7",
+"Antoine.Daily.NewHuman.Winter.4": "It's strange but, I don't feel like I have as much energy as I used to. I guess I'm just used to being so active all the time.$h#$b#I'm not sure if I'll miss it when I'm not so active all the time...$1",
+"Antoine.Daily.NewHuman.Winter.5": "",
+
+/*/ New Human ~ Birthday /*/ 
+"Antoine.Daily.NewHuman.Birthday.1": "It's my first birthday as a human! Well, my first birthday celebrating *as* a human.$h#$b#Junimos don't really do birthdays - we just exist. But humans make such wonderful celebrations!$1#$b#Thank you for helping me learn what it means to mark the passage of time with joy.$h",
+
 
 /*/ 0 Hearts ~ Daily /*/ 
 "Antoine.Daily.1": "Do you ever wonder if the morning dew remembers being a cloud?$7",
@@ -504,6 +566,7 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Daily.11": "Aideen really respects her flowers and they can tell! That's why they want to look extra pretty for her.$h",
 "Antoine.Daily.12": "Sometimes I sneak some magic into the feed Marnie gives to her chickens to give their feathers some more luster.$u#$b#Please don't tell Jaz though, she thinks they're looking better because she's been reading them bed time stories and it's making them happier.$h",
 "Antoine.Daily.13": "Hey, @. What do you think color of a mirror is?$7",
+"Antoine.Daily.14": "The flowers whisper such beautiful secrets today. I wish I could share them with you properly.$7#$b#Sometimes I feel like there's so much I want to say, but the words get... tangled.$0",
 
 /*/ 4 Hearts ~ Daily /*/
 "Antoine.Daily.h4.1": "If I had a magic box that could bring back any inanimate object that I've lost in my entire life, I think I'd use it to bring back the ribbon that I lost when I tied up my new hair for the very first time.$0",
@@ -612,6 +675,8 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
 "Antoine.Summer.17": "I heard on the wind that %favorite was your favorite thing in the world. I think that's really interesting.$h",
 "Antoine.Summer.18": "When Fall is just around the corner, I'll be saying my farewells to the leaves on the trees before the wind takes them on their final journey.$0",
 "Antoine.Summer.19": "Why do people complain about burning when they eat hot peppers? They don't seem that hot to me.$7#$b#Emily said that birds don't think hot peppers are hot either.$h",
+"Antoine.Summer.20": "The summer fruits are singing such happy songs! Can you hear them?$h#$b#Oh... right. Your ears work differently. I forget sometimes.$7",
+
 
 
 /*/ 0 Hearts ~ Fall /*/
@@ -1205,34 +1270,34 @@ Note: This is some generic movie dialog just in case someone has a movie mod ins
     "Antoine.Mail.RecipeAdventure": "Dear @, ^^ Thanks so much for your tasty gift! It really inspired me to try and cook the dish myself. I messed it up so I'm too embarrassed to send it though.^ If you give me another one I won't chicken out this time though and definitely send you one back. Also to test how well food ships in the mail. Let me know if it's all cold or smooshed!^ Sincerely, Antoine[letterbg 2][#]The beginning of our cooking adventure!",
 
     //Conditions: Gifted Omelet
-    "Antoine.Mail.RecipeOmelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Omelet",
+    "Antoine.Mail.Omelet": "Dear @, ^^ I just watched the best show called the Queen of the Sauce! I really enjoyed trying her omelet technique! ^I noticed that it was really similar to the omelet recipe you sent me. Are you a fan of hers too? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Omelet",
 
     //Conditions: Gifted Parsnip Soup
-    "Antoine.Mail.RecipeParsnipSoup": "Dear @, ^^ Caroline's parsnip soup is just the best. She really puts a lot of love in it. ^ And by love I mean salt, ha ha. I didn't use quite as much. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Parsnip Soup",
+    "Antoine.Mail.ParsnipSoup": "Dear @, ^^ Caroline's parsnip soup is just the best. She really puts a lot of love in it. ^ And by love I mean salt, ha ha. I didn't use quite as much. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Parsnip Soup",
 
     //Conditions: Gifted Vegetable Medley
-    "Antoine.Mail.RecipeVegetableMedley": "Dear @, ^^ I'm in love with the vegetable combination that Caroline puts in her vegetable medley! I had to make extra just to have some again later. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Vegetable Medley",
+    "Antoine.Mail.VegetableMedley": "Dear @, ^^ I'm in love with the vegetable combination that Caroline puts in her vegetable medley! I had to make extra just to have some again later. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Vegetable Medley",
 
     //Conditions: Gifted Algae Soup
-    "Antoine.Mail.RecipeAlgaeSoup": "Dear @, ^^ You know, some people really get put off by algae's odd texture. I really like it though, and Clint was really clever with it. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Algae Soup",
+    "Antoine.Mail.AlgaeSoup": "Dear @, ^^ You know, some people really get put off by algae's odd texture. I really like it though, and Clint was really clever with it. ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Algae Soup",
 
     //Conditions: Gifted Bean Hotpot
-    "Antoine.Mail.RecipeBeanHotpot": "Dear @, ^^ Something about Clint's bean hotpot really draws you in. I got a lot of extra energy after trying it too. ^ Who would have thought Clint would have it in him, huh? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Bean Hotpot",
+    "Antoine.Mail.BeanHotpot": "Dear @, ^^ Something about Clint's bean hotpot really draws you in. I got a lot of extra energy after trying it too. ^ Who would have thought Clint would have it in him, huh? ^   Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Bean Hotpot",
 
     //Conditions: Gifted Roots Platter
-    "Antoine.Mail.RecipeRootsPlatter": "Dear @, ^^ I guess spending so much time in the mines really gave you some inspiration. ^ It was super tasty, and I'm definitely going to make some again later! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Roots Platter",
+    "Antoine.Mail.RootsPlatter": "Dear @, ^^ I guess spending so much time in the mines really gave you some inspiration. ^ It was super tasty, and I'm definitely going to make some again later! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Roots Platter",
 
     //Conditions: Gifted Squid Ink Ravioli
-    "Antoine.Mail.RecipeSquidInkRavioli": "Dear @, ^^ This is such a clever use of squid ink! But I didn't have any from squid so I just used regular ink. ^ Ha ha, just kidding. I wish I could have seen your face. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Squid Ink Ravioli",
+    "Antoine.Mail.SquidInkRavioli": "Dear @, ^^ This is such a clever use of squid ink! But I didn't have any from squid so I just used regular ink. ^ Ha ha, just kidding. I wish I could have seen your face. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Squid Ink Ravioli",
 
     //Conditions: Gifted Fried Mushroom
-    "Antoine.Mail.RecipeFriedMushroom": "Dear @, ^^ Demetrius' fried mushrooms are so tasty. I never would have thought to cook them this way! ^ I managed to pick the mushrooms super fresh too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Mushroom",
+    "Antoine.Mail.FriedMushroom": "Dear @, ^^ Demetrius' fried mushrooms are so tasty. I never would have thought to cook them this way! ^ I managed to pick the mushrooms super fresh too. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Fried Mushroom",
 
     //Conditions: Gifted Autumn's Bounty
-    "Antoine.Mail.RecipeAutumnsBounty": "Dear @, ^^ YAMS! I used so many of them in my version of this dish! Demetrius really knows his stuff. ^ Don't worry, there isn't nearly as much yam in yours, ha ha. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Autumn's Bounty",
+    "Antoine.Mail.AutumnsBounty": "Dear @, ^^ YAMS! I used so many of them in my version of this dish! Demetrius really knows his stuff. ^ Don't worry, there isn't nearly as much yam in yours, ha ha. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Autumn's Bounty",
 
     //Conditions: Gifted Ginger Ale
-    "Antoine.Mail.RecipeGingerAle": "Dear @, ^^ Wow, a dwarf recipe. This must be pretty special. It tastes good too. ^ What do you mean it cost you 1,000g?! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ginger Ale",
+    "Antoine.Mail.GingerAle": "Dear @, ^^ Wow, a dwarf recipe. This must be pretty special. It tastes good too. ^ What do you mean it cost you 1,000g?! ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Ginger Ale",
 
     //Conditions: Gifted Salad
     "Antoine.Mail.RecipeSalad": "Dear @, ^^ Ah, Emily said she sent you her salad recipe. I'm a big fan of it too. Ha ha, no surprise there, huh? ^ I tried a different dressing than what she tends to use. ^  Sincerely, Antoine[letterbg 2] %item 195 1 %% [#]Salad",
